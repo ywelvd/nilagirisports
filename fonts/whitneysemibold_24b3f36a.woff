@@ -1,0 +1,4295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-adsense-account" content="ca-pub-1743113745431981">
+<!--<script async src="https://cdn.ampproject.org/v0.js"></script>-->
+<TITLE>Cosco Sports Equipment | Cosco Fitness Equipment India</TITLE>
+<meta name='keywords' content='Sports Equipment, sports accessories, sports products, sports goods, fitness equipment manufacturers, gym equipment manufacturers, sports products manufacturers in india, best fitness equipment in india, fitness equipment India, Exercise Equipment India' />
+<meta name='description' content='Get the best of Cosco sports and fitness equipment, products here. Cosco is the manufacturer of sports accessories, fitness accessories, exercise equipment, gym equipment etc.' />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.cosco.in/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.cosco.in/assets/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.cosco.in/assets/favicons/favicon-16x16.png">
+<!-- old link -->
+<link href="https://www.cosco.in/assets/css/frontend/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<!-- new link -->
+<link href="https://www.cosco.in/assets/theme/css/style.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/owl.carousel.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/owl.theme.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/owl.transitions.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/owl.transitions.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/zeynep.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/base.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/left.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/prettyPhoto.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/slick.css" rel="stylesheet">
+<link href="https://www.cosco.in/assets/theme/css/slick/slick-theme.css" rel="stylesheet">
+<link href='https://www.cosco.in/assets/theme/font-awesome/css/font-awesome.css' rel='stylesheet' type='text/css'>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+<!-- <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700' rel='stylesheet' type='text/css'> -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://www.cosco.in/assets/js/jquery-3.6.0.min.js"><\/script>')</script>
+
+<script type="application/ld+json">
+          {
+            "@context" : "https://schema.org",
+              "@type" : "Organization",
+              "Name" : "Cosco",
+              "URL" : "https://www.cosco.in/",
+              "contactPoint" : [{
+                "@type" : "ContactPoint",
+                "telephone" : "+91-96-54136136",
+                "contactType" : "Customer Service"
+              }],
+              "logo" : "https://www.cosco.in/assets/images/logo.png",
+              "sameAs" : [
+                "https://www.facebook.com/coscoindia",
+                "https://www.twitter.com/coscoindia",
+                "https://www.plus.google.com/+CoscoIndialtd",
+                "https://www.instagram.com/coscoindia"
+              ]
+          }
+</script>
+<!-- <script type="text/javascript">
+	$(document).ready(function()
+	{
+	  $('body').addClass('awesa');
+	});
+
+	$(document).on('click','.awesa',function(e)
+	{
+	    $(this).removeClass('awesa');
+
+	    window.open('https://', '_blank');
+	});
+</script> -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type":"WebSite",
+  "url": "https://www.cosco.in",
+  "potentialAction":
+    {
+        "@type": "SearchAction",
+    "target": "https://www.cosco.in/products/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+        }
+}
+</script>
+</head>
+<body class="windows-10 chrome">
+<!-- closing tab in footer.php -->
+<div id="wrapper" class="homepage-1"><div class="visible-xs">
+  <div class="mobile-menu">
+      <div id="believe-nav"> <!-- Nav -->
+    <div class="container">
+      <div class="min-marg row">
+        <nav class="navbar navbar-default">
+          
+          <div class="navbar-header">
+            
+            <div class="col-xs-2">
+              <button type="button" class="btn-open first visible-xs-block">
+               
+                
+                 <img class="img-responsive" src="https://www.cosco.in/assets/theme/images/toggle.png" width="30" height="30" alt=""/>
+              </button>
+            </div>
+
+            <div class="navbar col-xs-4">
+               <a class="navbar-brand" href="https://www.cosco.in/">
+                    <img class="img-responsive" src="https://www.cosco.in/assets/images/logo.png" alt=""/>
+                 </a>
+              </div>
+            <div class="col-xs-2">
+              <div class="navbar">
+                <ul>
+                  <li class="searchbar">
+                  <i class="fa fa-search" aria-hidden="true"></i>
+                  <div class="col-xs-12">
+                    <div class="togglesearch">
+                
+                      <input type="text" id="search-q"   placeholder="Search Here" aria-describedby="basic-addon1" name="q" required  value=""/>
+                      <input type="button"  data-url="https://www.cosco.in/products/search" value="Search" id="mobile-search"/>
+                     
+                    </div>
+                  </div>
+                </li>
+              </ul>
+              </div>
+              </div>
+                <div class="col-xs-2 icon-phone">
+                 <i class="fa fa-phone" aria-hidden="true"></i>
+                <!--  <img class="img-responsive" width="35" height="35" src="https://www.cosco.in/assets/images/phone.png" alt=""/> -->
+                </div>
+
+                <!-- <ul class="nav navbar-nav navbar-right">
+                      <li><img class="img-responsive" width="25" height="" src="https://www.cosco.in/assets/images/phone.png" alt=""/></li></ul>
+             
+                
+                
+                <div class="cat-img-off">
+               <ul class="nav navbar-nav navbar-right">
+                      <li><a href="https://store.cosco.in/">
+                     <!--  <img class="img-responsive" src="https://www.cosco.in/assets/theme/images/shop.png" width="35" height="35"> 
+                       
+                      <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                     </a></li>
+                  </ul> -->
+                
+                <!-- kart-icon -->
+                <div class="col-xs-2">
+                  <a href="https://store.cosco.in/"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+                  
+                </div>
+                
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  
+                  <ul class="nav navbar-nav navbar-right">
+                    <li>
+                      <form class="side-search">
+                        <div class="input-group">
+
+                         <input type="text" class="form-control search-wid" placeholder="Search Here" aria-describedby="basic-addon1"/>
+                          <a href="" class="input-group-addon btn-side-serach" id="basic-addon1">
+                            <i class="fa fa-search"></i>
+                          </a>
+                        </div>
+                      </form>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i class="fa fa-phone-square"></i>
+                        <span>CUSTOMER CARE : 0124-2252988
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://mail.cosco.in:2096/3rdparty/roundcube/index.php">
+                         <i class="fa fa-envelope-square"></i>
+                          <span>Check E-mail</span>
+                      </a>
+                    </li>
+                  </ul>
+                  
+                </div>
+                
+              </nav>
+            </div>
+            
+          </div>
+          </div>  
+  
+   <div id="myDIV">
+    <div class="zeynep first visible-xs-block" data-menu-name="first">
+
+        <div class="head-box">
+          <button data-submenu-close="true" type="button" class="btn-open  visible-xs-block close-menu">
+              <img class="img-responsive " src="https://www.cosco.in/assets/theme/images/close.png" width="30" height="30" alt="">
+         </button>
+        </div>
+        <ul>
+          <li>
+            <a href="#"><strong>MENU</strong></a>
+          </li>
+
+          <li class="has-submenu">
+            <a href="#" data-submenu="Sportscategories">SPORTS</a>
+            <div id="Sportscategories" class="submenu">
+              <div class="submenu-header">
+                <a href="#" data-submenu-close="Sportscategories">Main Menu</a>
+              </div>
+              <label>Sports </label>
+              <ul>
+                  <li class="has-submenu">
+					              <a href="#" data-submenu='Accessoriescategories'>Accessories</a><div id='Accessoriescategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Accessoriescategories'>Main Menu</a>
+                          </div><label>Accessories </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/accessories-3/agility/">Agility</a></li><li><a href="https://www.cosco.in/products/india/accessories-3/bags-ball/">Bags & Ball</a></li><li><a href="https://www.cosco.in/products/india/accessories-3/recovery-2/">Recovery</a></li><li><a href="https://www.cosco.in/products/india/accessories-3/strength-2/">Strength</a></li><li><a href="https://www.cosco.in/products/india/accessories-3/training-7/">Training</a></li><li><a href="https://www.cosco.in/products/india/accessories-3/yoga/">Yoga</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Badmintoncategories'>Badminton</a><div id='Badmintoncategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Badmintoncategories'>Main Menu</a>
+                          </div><label>Badminton </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/badminton/grips/">Grips</a></li><li><a href="https://www.cosco.in/products/india/badminton/nets-2/">Nets</a></li><li><a href="https://www.cosco.in/products/india/badminton/rackets/">Rackets</a></li><li><a href="https://www.cosco.in/products/india/badminton/shoe/">Shoe</a></li><li><a href="https://www.cosco.in/products/india/badminton/shuttle-cocks/">Shuttle Cocks</a></li><li><a href="https://www.cosco.in/products/india/badminton/strings-3/">Strings</a></li><li><a href="https://www.cosco.in/products/india/badminton/synthetic-court-2/">Synthetic Court</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='BasketBallcategories'>Basket Ball</a><div id='BasketBallcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='BasketBallcategories'>Main Menu</a>
+                          </div><label>Basket Ball </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/basket-ball/back-boards/">Back Boards</a></li><li><a href="https://www.cosco.in/products/india/basket-ball/balls-6/">Balls</a></li><li><a href="https://www.cosco.in/products/india/basket-ball/net-ring/">Net & Ring</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Benchcategories'>Bench</a><div id='Benchcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Benchcategories'>Main Menu</a>
+                          </div><label>Bench </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/bench/benches-2/">Benches</a></li><li><a href="https://www.cosco.in/products/india/bench/benches-with-rack/">Benches with Rack</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Carromcategories'>Carrom</a><div id='Carromcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Carromcategories'>Main Menu</a>
+                          </div><label>Carrom </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/carrom/carrom-boards/">Carrom Boards</a></li><li><a href="https://www.cosco.in/products/india/carrom/carrom-set/">Carrom Set</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Cricketcategories'>Cricket</a><div id='Cricketcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Cricketcategories'>Main Menu</a>
+                          </div><label>Cricket </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/cricket/cricket-bat-sets/">Cricket Bat Sets</a></li><li><a href="https://www.cosco.in/products/india/cricket/cricket-bats/">Cricket Bats</a></li><li><a href="https://www.cosco.in/products/india/cricket/cricket-equipments/">Cricket Equipments</a></li><li><a href="https://www.cosco.in/products/india/cricket/cricket-tennis-balls/">Cricket Tennis Balls</a></li><li><a href="https://www.cosco.in/products/india/cricket/cricket-tennis-bats/">Cricket Tennis Bats</a></li><li><a href="https://www.cosco.in/products/india/cricket/wind-ball/">Wind Ball</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Footballcategories'>Football</a><div id='Footballcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Footballcategories'>Main Menu</a>
+                          </div><label>Football </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/football/balls/">Balls</a></li><li><a href="https://www.cosco.in/products/india/football/equipments-2/">Equipments</a></li><li><a href="https://www.cosco.in/products/india/football/goal-keeper-gloves/">Goal Keeper Gloves</a></li><li><a href="https://www.cosco.in/products/india/football/net-4/">Net</a></li><li><a href="https://www.cosco.in/products/india/football/shin-guards/">Shin Guards</a></li><li><a href="https://www.cosco.in/products/india/football/soccer-shoes/">Soccer Shoes</a></li><li><a href="https://www.cosco.in/products/india/football/stockings/">Stockings</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Padelcategories'>Padel</a><div id='Padelcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Padelcategories'>Main Menu</a>
+                          </div><label>Padel </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/padel/rackets-2/">Rackets</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Pickleballcategories'>Pickleball</a><div id='Pickleballcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Pickleballcategories'>Main Menu</a>
+                          </div><label>Pickleball </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/pickleball/balls-3/">Balls</a></li><li><a href="https://www.cosco.in/products/india/pickleball/bats-2/">Bats</a></li><li><a href="https://www.cosco.in/products/india/pickleball/courts/">Courts</a></li><li><a href="https://www.cosco.in/products/india/pickleball/grip-2/">Grip</a></li><li><a href="https://www.cosco.in/products/india/pickleball/kit-bag-2/">Kit Bag</a></li><li><a href="https://www.cosco.in/products/india/pickleball/nets-2/">Nets</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='SkateBoardcategories'>Skate | Board</a><div id='SkateBoardcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='SkateBoardcategories'>Main Menu</a>
+                          </div><label>Skate | Board </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/skate-board-2/helmets-2/">Helmets</a></li><li><a href="https://www.cosco.in/products/india/skate-board-2/inline-skates/">Inline Skates</a></li><li><a href="https://www.cosco.in/products/india/skate-board-2/protective-kit/">Protective Kit</a></li><li><a href="https://www.cosco.in/products/india/skate-board-2/replacement-wheels/">Replacement Wheels</a></li><li><a href="https://www.cosco.in/products/india/skate-board-2/roller-skates-2/">Roller Skates</a></li><li><a href="https://www.cosco.in/products/india/skate-board-2/shoe-skate/">Shoe Skate</a></li><li><a href="https://www.cosco.in/products/india/skate-board-2/skate-board/">Skate Board</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='SportsBallcategories'>Sports Ball</a><div id='SportsBallcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='SportsBallcategories'>Main Menu</a>
+                          </div><label>Sports Ball </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/sports-ball/beach-football/">Beach Football</a></li><li><a href="https://www.cosco.in/products/india/sports-ball/futsal-balls/">Futsal Balls</a></li><li><a href="https://www.cosco.in/products/india/sports-ball/handballs/">Handballs</a></li><li><a href="https://www.cosco.in/products/india/sports-ball/net-balls/">Net Balls</a></li><li><a href="https://www.cosco.in/products/india/sports-ball/rugby-balls/">Rugby Balls</a></li><li><a href="https://www.cosco.in/products/india/sports-ball/throw-balls/">Throw Balls</a></li><li><a href="https://www.cosco.in/products/india/sports-ball/water-polo-ball/">Water Polo Ball</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Squashcategories'>Squash</a><div id='Squashcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Squashcategories'>Main Menu</a>
+                          </div><label>Squash </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/squash/grip/">Grip</a></li><li><a href="https://www.cosco.in/products/india/squash/rackets-2/">Rackets</a></li><li><a href="https://www.cosco.in/products/india/squash/string/">String</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Swimmingcategories'>Swimming</a><div id='Swimmingcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Swimmingcategories'>Main Menu</a>
+                          </div><label>Swimming </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/swimming/caps/">Caps</a></li><li><a href="https://www.cosco.in/products/india/swimming/goggles/">Goggles</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='TableTenniscategories'>Table Tennis </a><div id='TableTenniscategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='TableTenniscategories'>Main Menu</a>
+                          </div><label>Table Tennis  </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/table-tennis/ttaccessories/">T.T.Accessories</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttballs/">T.T.Balls</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttbats/">T.T.Bats</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttblades/">T.T.Blades</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttclothings/">T.T.Clothings</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttrobots/">T.T.Robots</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttrubbers/">T.T.Rubbers</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/ttsynthetic-court/">T.T.Synthetic Court</a></li><li><a href="https://www.cosco.in/products/india/table-tennis/tttables/">T.T.Tables</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='Tenniscategories'>Tennis</a><div id='Tenniscategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Tenniscategories'>Main Menu</a>
+                          </div><label>Tennis </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/tennis/balls-4/">Balls</a></li><li><a href="https://www.cosco.in/products/india/tennis/grip-2/">Grip</a></li><li><a href="https://www.cosco.in/products/india/tennis/net-3/">Net</a></li><li><a href="https://www.cosco.in/products/india/tennis/rackets-2/">Rackets</a></li><li><a href="https://www.cosco.in/products/india/tennis/string-2/">String</a></li></ul></div></li><li class="has-submenu">
+					              <a href="#" data-submenu='VolleyBallcategories'>Volley Ball</a><div id='VolleyBallcategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='VolleyBallcategories'>Main Menu</a>
+                          </div><label>Volley Ball </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/products/india/volley-ball/balls-3/">Balls</a></li><li><a href="https://www.cosco.in/products/india/volley-ball/nets/">Nets</a></li></ul></div></li>                  <li class="has-submenu">
+                      <a href="#" data-submenu="BrandsSports">Brands</a>
+                      <div id="BrandsSports" class="submenu">
+                        <div class="submenu-header">
+                          <a href="#" data-submenu-close="BrandsSports">Sports</a>
+                        </div>
+                        <label>Brands </label>
+                        <ul>
+                                                  
+                               <li><a href="https://www.cosco.in/products-brand/cosco">Cosco</a></li>
+                                                  
+                               <li><a href="https://www.cosco.in/products-brand/stiga">STIGA</a></li>
+                                                  
+                               <li><a href="https://www.cosco.in/products-brand/newgy">NEWGY</a></li>
+                                                  
+                               <li><a href="https://www.cosco.in/products-brand/tretorn">TRETORN</a></li>
+                                                  
+                               <li><a href="https://www.cosco.in/products-brand/adidas">Adidas</a></li>
+                                                  </ul>
+                      </div>
+                  </li>
+                                </ul>
+            </div>
+          </li>
+          <li class="has-submenu">
+            <a href="#" data-submenu="Fitnesscategories">FITNESS</a>
+            <div id="Fitnesscategories" class="submenu">
+              <div class="submenu-header">
+                <a href="#" data-submenu-close="Fitnesscategories">Main Menu</a>
+              </div>
+              <label>Fitness </label>
+              <ul>
+                  <li class="has-submenu">
+                    <a href="#" data-submenu="AccessoriesFitness">Accessories</a>
+                      <div id="AccessoriesFitness" class="submenu">
+                        <div class="submenu-header">
+                          <a href="#" data-submenu-close="AccessoriesFitness">Fitness</a>
+                        </div>
+                        <label>Accessories </label>
+                        <ul>
+                          <!-- <li><a href="https://www.cosco.in/products/india/accessories-3/adidas/">Adidas</a></li>
+                          <li><a href="https://www.cosco.in/products/india/accessories-3/cosco-2-2/">Cosco</a></li> -->
+
+                          <li><a
+                                href="https://www.cosco.in/products/india/accessories-3/recovery-adidas/">Recovery
+                                Adidas</a></li>
+                            <li><a
+                                href="https://www.cosco.in/products/india/accessories-3/training-adidas/">Training
+                                Adidas</a></li>
+                            <li><a href="https://www.cosco.in/products/india/accessories-3/yoga-adidas/">Yoga
+                                Adidas</a></li>
+                        </ul>
+                      </div>
+                  </li>
+                  <li class="has-submenu">
+					              <a href="#" data-submenu='Cardiocategories'>Cardio </a><div id='Cardiocategories' class="submenu"><div class="submenu-header">
+                          <a href="#" data-submenu-close='Cardiocategories'>Main Menu</a>
+                          </div><label> <a href="#" data-submenu-close='Cardiocategories'>  </a> </label>
+                          <ul>
+					   <li><a href="https://www.cosco.in/health-fitness/cardio/air-bike/">Air Bike</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/elliptical-crosstrainer/">Elliptical Crosstrainer</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/group-cycling-bike/">Group Cycling Bike</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/multi-gym/">Multi Gym</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/recumbent-bike/">Recumbent Bike</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/rowing-machine/">Rowing Machine</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/stair-climber/">Stair Climber</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/steppersquat/">Stepper-Squat </a></li><li><a href="https://www.cosco.in/health-fitness/cardio/treadmills/">Treadmills</a></li><li><a href="https://www.cosco.in/health-fitness/cardio/upright-bike/">Upright Bike</a></li></ul></div></li><li><a href="https://www.cosco.in/health-fitness/special-equipments/">Special Equipments</a></li><li><a href="https://www.cosco.in/health-fitness/strength/">Strength </a></li>                  <li class="has-submenu">
+                      <a href="#" data-submenu="BrandsFitness">Brands</a>
+                      <div id="BrandsFitness" class="submenu">
+                        <div class="submenu-header">
+                          <a href="#" data-submenu-close="BrandsFitness">Fitness</a>
+                        </div>
+                        <label>Brands </label>
+                        <ul>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/cosco">Cosco</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/coscofitness">Coscofitness</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/xdegree">XDEGREE</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/jkexer">JKexer</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/impluse">Impluse</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/adidas">Adidas</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/reebok">Reebok</a>
+                                 </li>
+                                                  
+                                 <li><a href="https://www.cosco.in/health-fitness-brand/force-usa">FORCE USA</a>
+                                 </li>
+                           
+                        </ul>
+                      </div>
+                  </li>
+                                </ul>
+            </div>
+          </li>
+          <li class="has-submenu">
+            <a href="#" data-submenu="Brandscategories">Brands</a>
+            <div id="Brandscategories" class="submenu">
+              <div class="submenu-header">
+                <a href="#" data-submenu-close="Brandscategories">Main Menu</a>
+              </div>
+              <label>Brands </label>
+              <ul>
+                  <li class="has-submenu">
+                    <a href="#" data-submenu="SportsBrands">Sports</a>
+                    <div id="SportsBrands" class="submenu">
+                      <div class="submenu-header">
+                        <a href="#" data-submenu-close="SportsBrands">Brands</a>
+                      </div>
+                      <label>Sports </label>
+                      <ul>
+                                                    <li><a href="https://www.cosco.in/products-brand/cosco">Cosco</a></li>    
+                                                    <li><a href="https://www.cosco.in/products-brand/stiga">STIGA</a></li>    
+                                                    <li><a href="https://www.cosco.in/products-brand/newgy">NEWGY</a></li>    
+                                                    <li><a href="https://www.cosco.in/products-brand/tretorn">TRETORN</a></li>    
+                                                    <li><a href="https://www.cosco.in/products-brand/adidas">Adidas</a></li>    
+                                              </ul>
+                    </div>
+                  </li>
+                  <li class="has-submenu">
+                    <a href="#" data-submenu="FitnessBrands">Fitness</a>
+                      <div id="FitnessBrands" class="submenu">
+                        <div class="submenu-header">
+                          <a href="#" data-submenu-close="FitnessBrands">Brands</a>
+                        </div>
+                        <label>Fitness </label>
+                        <ul>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/cosco">Cosco</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/coscofitness">Coscofitness</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/xdegree">XDEGREE</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/jkexer">JKexer</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/impluse">Impluse</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/adidas">Adidas</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/reebok">Reebok</a></li>
+                                                        <li><a href="https://www.cosco.in/health-fitness-brand/force-usa">FORCE USA</a></li>
+                                                  </ul>
+                      </div>
+                    </li>
+                </ul>
+            </div>
+          </li>
+
+                    <li class="has-submenu">
+            <a href="#" data-submenu="Investorscategories">Investors</a>
+            <div id="Investorscategories" class="submenu">
+              <div class="submenu-header">
+                <a href="#" data-submenu-close="Investorscategories">Main Menu</a>
+              </div>
+              <label>Investors </label>
+              <ul>
+                  <li><a href="https://www.cosco.in/investors/annual-reports" >Annual Reports </a></li><li><a href="https://www.cosco.in/investors/authorisation-to-kmps" >Authorisation to KMPs</a></li><li><a href="https://www.cosco.in/investors/code-of-conduct" >Code of Conduct </a></li><li><a href="https://www.cosco.in/investors/compliance-clause" >Compliance Clause </a></li><li><a href="https://www.cosco.in/investors/composition-of-bod-committe" >Composition of BoD & Committe</a></li><li><a href="https://www.cosco.in/investors/contact-for-investors" >Contact for Investors</a></li><li><a href="https://www.cosco.in/investors/corpgovernance-report" >Corp.Governance Report</a></li><li><a href="https://www.cosco.in/investors/financial-results" >Financial Results</a></li><li><a href="https://www.cosco.in/investors/holder-of-physical-securities" >holder of Physical Securities</a></li><li><a href="https://www.cosco.in/investors/investor-information" >Investor Information </a></li><li><a href="https://www.cosco.in/investors/moa-and-aoa" >MoA and AoA</a></li><li><a href="https://www.cosco.in/investors/news-paper-publication" >News Paper Publication</a></li><li><a href="https://www.cosco.in/investors/notices" >Notices</a></li><li><a href="https://www.cosco.in/investors/policies" >Policies</a></li><li><a href="https://www.cosco.in/investors/related-party-disclosure" >Related Party Disclosure</a></li><li><a href="https://www.cosco.in/investors/sebi-circulars-odr" >SEBI Circulars - ODR</a></li><li><a href="https://www.cosco.in/investors/secycompliance-certificate" >Secy.Compliance Certificate</a></li><li><a href="https://www.cosco.in/investors/shareholding-pattern" >Shareholding Pattern</a></li><li><a href="https://www.cosco.in/investors/unclaimed-dividend" >Unclaimed Dividend</a></li>              </ul>
+            </div>
+          </li>
+          
+                    <li class="has-submenu">
+            <a href="#" data-submenu="Downloadscategories">Downloads</a>
+            <div id="Downloadscategories" class="submenu">
+              <div class="submenu-header">
+                <a href="#" data-submenu-close="Downloadscategories">Main Menu</a>
+              </div>
+              <label>Downloads </label>
+              <ul>
+                  <li><a href="https://www.cosco.in/reports/download_pdf/adidas_catalogue_aw21_2851453804.pdf" target="_blank" >Adidas Catalogue </a></li><li><a href="https://www.cosco.in/reports/download_pdf/export_catalogue_2026_68528864173.pdf" target="_blank" >Export Catalogue</a></li><li><a href="https://www.cosco.in/reports/download_pdf/fitness_catalogue_2025_25-10-25_web_40057135882.pdf" target="_blank" >Fitness Catalogue Commercial</a></li><li><a href="https://www.cosco.in/reports/download_pdf/fitness_catalogue_home_series_2024_71091562514.pdf" target="_blank" >Fitness Catalogue Home</a></li><li><a href="https://www.cosco.in/reports/download_pdf/cosco_price_list_01_12_2025_mrp_print_91741121571.pdf" target="_blank" >Fitness Retail Price </a></li><li><a href="https://www.cosco.in/reports/download_pdf/sports_catalogue_2024_99603041347.pdf" target="_blank" >Sports Catalogue</a></li><li><a href="https://www.cosco.in/reports/download_pdf/mrp_list_1st_oct_2025_ctc_9638052101.pdf" target="_blank" >Sports Retail Price </a></li>              </ul>
+            </div>
+          </li>
+          
+
+
+        
+
+
+
+<!-- 
+
+          <li class="has-submenu">
+            
+            <a href="#" data-submenu="categories">SPORTS</a>
+
+            <div id="categories" class="submenu">
+              <div class="submenu-header">
+                <a href="#" data-submenu-close="categories">MAIN MENU</a>
+              </div>
+              <label>SPORTS</label>
+              <ul>
+                <li class="has-submenu">
+                 
+                  <a href="#" data-submenu="electronics">
+                    BADMINTON
+                  </a>
+
+                  <div id="electronics" class="submenu">
+                    <div class="submenu-header">
+                      <a href="#" data-submenu-close="electronics">
+                         SPORTS
+                      </a>
+                    </div>
+                    <label>BADMINTON</label>
+                    <ul>
+                      <li>
+                        <a href="#">Nets</a>
+                      </li>
+                      <li>
+                        <a href="#">Rackets</a>
+                      </li>
+                      <li>
+                        <a href="#">Shuttle Cock</a>
+                      </li>
+                      <li>
+                        <a href="#">String</a>
+                      </li>
+                      <li>
+                        <a href="#">Sinthetic court</a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </li>
+                <li class="has-submenu">
+                  <a href="#" data-submenu="basketball-menu">BASKET BALL</a>
+                  <div id="basketball-menu" class="submenu">
+                    <div class="submenu-header">
+                      <a href="#" data-submenu-close="basketball-menu">SPORTS</a>
+                    </div>
+                    <label>BASKET BALL</label>
+                    <ul>
+                      <li>
+                        <a href="#">Back Boards</a>
+                      </li>
+                        <li>
+                          <a href="#">Balls</a></li>
+                          <li>
+                            <a href="#">Nets</a></li>
+                            
+                          </ul>
+                        </div>
+                      </li>
+                      <li class="has-submenu">
+                        <a href="#" data-submenu="cricket">CRICKET
+                        </a>
+                        <div id="cricket" class="submenu">
+                          <div class="submenu-header">
+                            <a href="#" data-submenu-close="cricket">SPORTS</a>
+                          </div>
+                          <label>CRICKET</label>
+                          <ul>
+                            <li>
+                              <a href="#">Bats
+                              </a></li>
+                              <li>
+                                <a href="#">Equipments</a></li>
+                                <li>
+                                  <a href="#">Tennis Balls</a></li>
+                                  
+                                </ul>
+                              </div>
+                            </li>
+                            
+                          </ul>
+                    
+
+                        </div>
+                      </li> -->
+                <li style="cursor: pointer;"><a href="https://www.cosco.in/contact-us">Contact Us</a></li>
+ 
+                <li class="btn-shop-now">
+                  <a href="https://store.cosco.in/">Shop Now</a>
+                </li>    
+                </ul>
+                  </div>
+                </div>
+                
+                <div class="zeynep-overlay"></div>
+              </div>
+            </div>
+            
+  <style type="text/css">     
+  .content h1.one {
+      margin-top: 0;
+      margin-left: -11px;
+  }
+  .icon-phone > a .fa.fa-phone {
+    margin-top: 16px;
+  }
+  .btn-shop-now a, .btn-shop-now a:hover {
+    color: rgb(227, 2, 2) !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
+  }
+  </style>   <style type="text/css">
+  .homepage-1 #cat-nav ul.nav>li>a {
+    padding-bottom: 14px;
+  }
+
+  .homepage-1 #cat-nav ul.nav>li:hover>a,
+  .homepage-1 #cat-nav ul.nav>li>a:hover {
+    background: #f5f5f5 !important;
+  }
+
+  .brands-menu {
+    float: left;
+    margin-bottom: 10px;
+  }
+
+  .brands-menu .mega-sub {
+    padding-right: 10px;
+  }
+
+  .brands-menu .brands-sports .mega-sub-title,
+  .brands-menu .brands-fitness .mega-sub-title {
+    padding: 5px 0px;
+    color: #f00;
+  }
+
+  .brands-menu .brands-sports .mega-sub-title:hover {
+    color: #000;
+  }
+
+  .brands-menu {
+    padding: 0 15px;
+  }
+
+  /*.brands-menu .mega-sub .menu-brand-logo {
+    padding: 10px;
+}*/
+
+  .brands-menu .brands-sports .mega-sub,
+  .brands-menu .brands-fitness .mega-sub {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    float: none;
+    vertical-align: middle;
+    max-width: 150px;
+  }
+
+  .brands-menu .brands-fitness {
+    margin-bottom: 20px;
+  }
+
+  .brands-menu .brands-sports .mega-sub:last-child,
+  .brands-menu .brands-fitness .mega-sub:last-child {
+    border-right: 0;
+  }
+
+  .investors-menu .mega-sub {
+    margin-bottom: 0px;
+  }
+
+  .sports-menu li.mega-sub,
+  .fitness-menu li.mega-sub {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+  }
+
+  .sports-menu li.mega-sub {
+    height: 480px;
+  }
+
+  .fitness-menu li.mega-sub {
+    height: 480px;
+  }
+
+  .sports-menu li.mega-sub img.menu-brand-logo,
+  .fitness-menu li.mega-sub img.menu-brand-logo {
+    max-width: 130px;
+    max-height: 40px;
+    margin-left: 0px;
+    margin-right: auto;
+    margin-top: 25px;
+  }
+
+  .brands-menu .mega-sub .menu-brand-logo {
+    max-width: 100%;
+    max-height: 100px;
+    float: left;
+  }
+
+  .brands-menu .mega-sub-title {
+    margin-bottom: 0;
+  }
+
+  .brands-menu .mega-sub {
+    padding-top: 0;
+  }
+
+  .sports-menu li.mega-sub:last-child,
+  .fitness-menu li.mega-sub:last-child {
+    padding-right: 20px;
+    text-align: center;
+  }
+
+  .mr-b-10 {
+    margin-bottom: 10px;
+  }
+
+  .mr-b-20 {
+    margin-bottom: 20px;
+  }
+
+  ul.brand_list li.mr-b-20 {
+    width: 44%;
+    display: inline-block;
+    margin-left: 5%;
+  }
+
+  .brands-menu .mega-sub .menu-brand-logo {}
+
+  .desktop-container {
+    color: #fff;
+    top: 0;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    -webkit-box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    background-color: #fff;
+  }
+
+  li.mr-b-15 {
+    margin-bottom: 25px;
+    margin-top: -20px !important;
+    margin-left: 0px;
+  }
+
+  .investors-menu .mega-sub-title.line-ht-1 {
+    min-height: 22px;
+  }
+
+  .investors-menu .mega-sub-title.line-ht-2 {
+    min-height: 42px;
+  }
+
+  .investors-menu .mega-sub-title.line-ht-3 {
+    min-height: 62px;
+  }
+
+  ul.dropdown-menu.megamenu {
+    display: none;
+  }
+
+  ul.dropdown-menu.megamenu a {
+    display: block;
+  }
+
+  #cat-nav ul {
+    width: 100%;
+  }
+
+  .shop-fitness,
+  .homepage-1 #cat-nav ul.nav>li:hover .shop-fitness,
+  .homepage-1 #cat-nav ul.nav>li .shop-fitness:hover {
+    color: #fff !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    padding: 0px !important;
+    margin: 8px auto;
+  }
+
+  .homepage-1 #cat-nav ul.nav>li:hover>a.shop-fitness,
+  .homepage-1 #cat-nav ul.nav>li>a.shop-fitness:hover {
+    width: 102px;
+    background: transparent !important;
+  }
+
+  .shop-fitness:hover {}
+
+  .shop-fitness .btn-shop-now {
+    width: 100px;
+  }
+</style>
+
+<script>
+
+  $(document).ready(function () {
+    $('.homepage-1 #cat-nav ul li a').hover(function () {
+      $('li a').removeClass("active");
+      $(this).addClass("active");
+    });
+  });</script>
+
+
+<link rel="stylesheet" href="https://www.cosco.in/assets/css/etalage.css">
+<div class="space-header-top">
+  <div id="header" class="desktop-container">
+        <div class="hidden-xs">
+   
+
+      <div id="believe-nav" class=""> <!-- Nav -->
+      <div class="">
+        <div class="fitness-base row">
+        <div class="min-marg col-md-12">
+          <nav class="navbar navbar-default">
+           
+            <div class="navbar-header col-md-4">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="https://www.cosco.in/">
+                <img class="img-responsive" src="https://www.cosco.in/assets/images/logo.png" alt=""/>
+              </a>
+            </div>
+
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               <ul class="nav navbar-nav col-md-4"> <li>
+                  
+
+
+    
+                    <form action="https://www.cosco.in/products/search" id="product_search_frm" class="side-search sreach" role="search" action="products/search/" method="GET" enctype="multipart/form-data" accept-charset="utf-8">
+                               
+                      <input type="text"  placeholder="Search Here" aria-describedby="basic-addon1" name="q" required  value="" >
+                     
+                      <button type="submit" href="" class="" id="basic-addon1"><i class="fa fa-search"></i></button>
+                   
+                  </form>                </li></ul>
+
+
+              <ul class="nav navbar-nav navbar-right col-md-4">
+                  
+                  <li class="header-flag pull-right" style="padding-top:30px !important;">
+                      <img class="img-responsive" width="20px" height="15px" src="https://www.cosco.in/assets/theme/images/India.jpg " alt=""/>
+                </li>
+                          
+               <!--<li class="cat-img-off pull-right">-->
+               <!--       <a href="https://store.cosco.in/">-->
+                  
+                       
+               <!--       <i class="fa fa-shopping-cart" aria-hidden="true"></i>-->
+               <!--      </a></li>-->
+                     
+                 <li class="phone-top pull-right">
+                <span>
+                 <img class="img-responsive" width="30" height="30" src="https://www.cosco.in/assets/images/phone.png" alt=""/> 0124-2252988</span>
+         
+
+            </li>
+              
+                     
+                    
+               
+              
+                 
+                   
+              </ul>
+              
+              </div><!-- /.navbar-collapse -->
+              <!--</div> -->
+              
+            </nav>
+          </div></div>
+          
+        </div>
+        </div></div> 
+        <style>
+          .top-black {
+    /* position: fixed; */
+    z-index: 1002;
+    width: 100%;
+    top: 0;
+    background-color: #333;
+    text-align: right;
+    font-size: 12px;
+}
+.header-flag {
+    padding: 5px 2px 0 0px;
+}
+.top-black .navbar-nav>li>a {
+    padding-top: 3px;
+    padding-bottom: 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.top-black .navbar-nav>li>a i {
+   padding: 0 6px;
+}
+.top-black a:focus a:hover{
+    text-decoration: none;
+    background: none;
+    color: #fff;
+}
+
+.top-black .navbar-nav>li>a:focus {
+    outline: none;
+    outline: none;
+    outline-offset: none;}
+
+    .nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none!important;
+    background:none!important;
+}
+.min-marg.col-md-12{
+    float: left;
+    padding-right: 0px;
+}
+.cat-img-off img {
+    margin-top: -15px;
+    margin-bottom: -10px;
+    margin-right: -18px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+  
+    background-color: transparent!important;
+}
+#believe-nav .navbar-right span  {
+    font-weight: bold;
+       vertical-align: -webkit-baseline-middle!important;
+  }
+/*li.phone-top img:hover {background:url(assets/images/phone-hover.png) center right no-repeat;
+}*/
+
+        </style>
+
+  
+    <div id="cat-nav">
+      <div class="fitness-base">
+        <nav class="navbar navbar-default hidden-xs">
+
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cat-nav-mega">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="cat-nav-mega">
+            <ul class="nav navbar-nav">
+              <li class="dropdown menu-large">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">SPORTS <i
+                    class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu megamenu" role="menu">
+                  <li>
+                    <div class="sports-menu">
+                      <ul>
+                        <li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+							Accessories
+							</li><li >
+										<a href="https://www.cosco.in/products/india/accessories-3/agility/">Agility</a></li><li >
+										<a href="https://www.cosco.in/products/india/accessories-3/bags-ball/">Bags & Ball</a></li><li >
+										<a href="https://www.cosco.in/products/india/accessories-3/recovery-2/">Recovery</a></li><li >
+										<a href="https://www.cosco.in/products/india/accessories-3/strength-2/">Strength</a></li><li >
+										<a href="https://www.cosco.in/products/india/accessories-3/training-7/">Training</a></li><li >
+										<a href="https://www.cosco.in/products/india/accessories-3/yoga/">Yoga</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/badminton/">Badminton</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/badminton/grips/">Grips</a></li><li >
+										<a href="https://www.cosco.in/products/india/badminton/nets-2/">Nets</a></li><li >
+										<a href="https://www.cosco.in/products/india/badminton/rackets/">Rackets</a></li><li >
+										<a href="https://www.cosco.in/products/india/badminton/shoe/">Shoe</a></li><li >
+										<a href="https://www.cosco.in/products/india/badminton/shuttle-cocks/">Shuttle Cocks</a></li><li >
+										<a href="https://www.cosco.in/products/india/badminton/strings-3/">Strings</a></li><li >
+										<a href="https://www.cosco.in/products/india/badminton/synthetic-court-2/">Synthetic Court</a></li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/basket-ball/">Basket Ball</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/basket-ball/back-boards/">Back Boards</a></li><li >
+										<a href="https://www.cosco.in/products/india/basket-ball/balls-6/">Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/basket-ball/net-ring/">Net & Ring</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/bench/">Bench</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/bench/benches-2/">Benches</a></li><li >
+										<a href="https://www.cosco.in/products/india/bench/benches-with-rack/">Benches with Rack</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/carrom/">Carrom</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/carrom/carrom-boards/">Carrom Boards</a></li><li >
+										<a href="https://www.cosco.in/products/india/carrom/carrom-set/">Carrom Set</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/cricket/">Cricket</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/cricket/cricket-bat-sets/">Cricket Bat Sets</a></li><li >
+										<a href="https://www.cosco.in/products/india/cricket/cricket-bats/">Cricket Bats</a></li><li >
+										<a href="https://www.cosco.in/products/india/cricket/cricket-equipments/">Cricket Equipments</a></li><li >
+										<a href="https://www.cosco.in/products/india/cricket/cricket-tennis-balls/">Cricket Tennis Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/cricket/cricket-tennis-bats/">Cricket Tennis Bats</a></li><li >
+										<a href="https://www.cosco.in/products/india/cricket/wind-ball/">Wind Ball</a></li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/football/">Football</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/football/balls/">Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/football/equipments-2/">Equipments</a></li><li >
+										<a href="https://www.cosco.in/products/india/football/goal-keeper-gloves/">Goal Keeper Gloves</a></li><li >
+										<a href="https://www.cosco.in/products/india/football/net-4/">Net</a></li><li >
+										<a href="https://www.cosco.in/products/india/football/shin-guards/">Shin Guards</a></li><li >
+										<a href="https://www.cosco.in/products/india/football/soccer-shoes/">Soccer Shoes</a></li><li >
+										<a href="https://www.cosco.in/products/india/football/stockings/">Stockings</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/skate-board-2/">Skate | Board</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/helmets-2/">Helmets</a></li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/inline-skates/">Inline Skates</a></li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/protective-kit/">Protective Kit</a></li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/replacement-wheels/">Replacement Wheels</a></li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/roller-skates-2/">Roller Skates</a></li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/shoe-skate/">Shoe Skate</a></li><li >
+										<a href="https://www.cosco.in/products/india/skate-board-2/skate-board/">Skate Board</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/squash/">Squash</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/squash/grip/">Grip</a></li><li >
+										<a href="https://www.cosco.in/products/india/squash/rackets-2/">Rackets</a></li><li >
+										<a href="https://www.cosco.in/products/india/squash/string/">String</a></li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/sports-ball/">Sports Ball</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/beach-football/">Beach Football</a></li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/futsal-balls/">Futsal Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/handballs/">Handballs</a></li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/net-balls/">Net Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/rugby-balls/">Rugby Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/throw-balls/">Throw Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/sports-ball/water-polo-ball/">Water Polo Ball</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/swimming/">Swimming</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/swimming/caps/">Caps</a></li><li >
+										<a href="https://www.cosco.in/products/india/swimming/goggles/">Goggles</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/volley-ball/">Volley Ball</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/volley-ball/balls-3/">Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/volley-ball/nets/">Nets</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/padel/">Padel</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/padel/rackets-2/">Rackets</a></li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/pickleball/">Pickleball</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/pickleball/balls-3/">Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/pickleball/bats-2/">Bats</a></li><li >
+										<a href="https://www.cosco.in/products/india/pickleball/courts/">Courts</a></li><li >
+										<a href="https://www.cosco.in/products/india/pickleball/grip-2/">Grip</a></li><li >
+										<a href="https://www.cosco.in/products/india/pickleball/kit-bag-2/">Kit Bag</a></li><li >
+										<a href="https://www.cosco.in/products/india/pickleball/nets-2/">Nets</a></li><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/table-tennis/">Table Tennis </a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttaccessories/">T.T.Accessories</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttballs/">T.T.Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttbats/">T.T.Bats</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttblades/">T.T.Blades</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttclothings/">T.T.Clothings</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttrobots/">T.T.Robots</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttrubbers/">T.T.Rubbers</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/ttsynthetic-court/">T.T.Synthetic Court</a></li><li >
+										<a href="https://www.cosco.in/products/india/table-tennis/tttables/">T.T.Tables</a></li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+									<a href="https://www.cosco.in/products/india/tennis/">Tennis</a>
+									
+									</li><li >
+										<a href="https://www.cosco.in/products/india/tennis/balls-4/">Balls</a></li><li >
+										<a href="https://www.cosco.in/products/india/tennis/grip-2/">Grip</a></li><li >
+										<a href="https://www.cosco.in/products/india/tennis/net-3/">Net</a></li><li >
+										<a href="https://www.cosco.in/products/india/tennis/rackets-2/">Rackets</a></li><li >
+										<a href="https://www.cosco.in/products/india/tennis/string-2/">String</a></li></ul></li>
+                                                  <li class="mega-sub menu-bg">
+                            <ul class="brand_list">
+                              <li class="mega-sub-title">Brands</li>
+
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/cosco">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/cosco_44190061595.png"
+                                      alt="" />                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/stiga">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/stiga_39596991674.png"
+                                      alt="STIGA" />                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/newgy">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/newgy_31760436280.png"
+                                      alt="Newgy" />                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/tretorn">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/tretron_34950345931.png"
+                                      alt="" />                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/adidas">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/adidas_76845841642.png"
+                                      alt="" />                                  </a>
+                                </li>
+                                                          </ul>
+                          </li>
+                                                </ul>
+                  </li>
+                </ul>
+              </li>
+              <li class="dropdown menu-large">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Fitness
+                  <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu megamenu" role="menu">
+                  <li>
+                    <div class="fitness-menu">
+                      <ul>
+                        <li class="mega-sub">
+                          <ul>
+                            <li class="mega-sub-title">Accessories</li>
+                            <!-- <li><a href="https://www.cosco.in/products/india/accessories-3/adidas/">Adidas</a></li>
+                                    <li><a href="https://www.cosco.in/products/india/accessories-3/cosco-2-2/">Cosco</a></li>  -->
+
+                            <li><a
+                                href="https://www.cosco.in/products/india/accessories-3/recovery-adidas/">Recovery
+                                Adidas</a></li>
+                            <li><a
+                                href="https://www.cosco.in/products/india/accessories-3/training-adidas/">Training
+                                Adidas</a></li>
+                            <li><a href="https://www.cosco.in/products/india/accessories-3/yoga-adidas/">Yoga
+                                Adidas</a></li>
+
+                                <li><a href="https://www.cosco.in/products/india/accessories-3/bench-adidas/">Bench Adidas</a></li>
+                            <!-- https://www.cosco.in/ -->
+                          </ul>
+                        </li>
+                        <li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+				 	   <a href="https://www.cosco.in/health-fitness/cardio/">Cardio </a>
+					   
+					 </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/air-bike/">Air Bike</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/elliptical-crosstrainer/">Elliptical Crosstrainer</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/group-cycling-bike/">Group Cycling Bike</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/multi-gym/">Multi Gym</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/recumbent-bike/">Recumbent Bike</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/rowing-machine/">Rowing Machine</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/stair-climber/">Stair Climber</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/steppersquat/">Stepper-Squat </a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/treadmills/">Treadmills</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/cardio/upright-bike/">Upright Bike</a>
+					    </li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+				 	   <a href="https://www.cosco.in/health-fitness/special-equipments/">Special Equipments</a>
+					   
+					 </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/ab-machines/">AB Machines</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/benches/">Benches</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/electric-gym-bed/">Electric Gym Bed</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/lat-pull-down-pl/">Lat Pull Down- PL</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/multi-functional-trainer/">Multi Functional Trainer</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/multi-trainer/">Multi Trainer</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/rod-stand/">Rod Stand</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/shoulder-press/">Shoulder Press</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/sissy-squat/">Sissy Squat</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/special-equipments/storage-rack/">Storage Rack</a>
+					    </li>	</ul>
+		             			</li>
+		             			<li class="mega-sub">
+                            	 	<ul><li class="mega-sub-title">
+				 	   <a href="https://www.cosco.in/health-fitness/strength/">Strength </a>
+					   
+					 </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/cable-crossover/">Cable Crossover </a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/crossfit-trainer/">Crossfit Trainer</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/dual-cable-cross/">Dual Cable Cross</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/freeweight/">Freeweight</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/functional-trainer/">Functional Trainer</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/multi-station-gym/">Multi Station Gym</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/non-wt-machines/">Non Wt. Machines</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/plate-loaded/">Plate Loaded</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/power-rack/">Power Rack</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/special-plate-loaded/">Special Plate Loaded</a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/wt-machines-dual/">Wt. Machines Dual </a>
+					    </li><li>
+					    <a href="https://www.cosco.in/health-fitness/strength/wt-machines-single/">Wt. Machines Single </a>
+					    </li></ul></li>                        <li class="mega-sub">
+                          <ul>
+                            <li></li>
+                          </ul>
+                        </li>
+                                                  <li class="mega-sub menu-bg">
+                            <ul class="brand_list">
+                              <li class="mega-sub-title">Brands</li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/cosco">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/cosco_44190061595.png"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/coscofitness">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/coscofitness_59809706979.png"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/xdegree">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/x_degree_new_logo_2024_93913429132.jpg"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/jkexer">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/jkexer_96542097953.png"
+                                      alt="Jk Exer" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/impluse">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/impulse_9708055183.png"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/adidas">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/adidas_76845841642.png"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/reebok">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/reebok_71388059125.png"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                              <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/health-fitness-brand/force-usa">                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/force_75851111101.png"
+                                      alt="" />
+                                  </a>
+                                </li>
+                                                          </ul>
+                          </li>
+                                                </ul>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              <li class="dropdown menu-large">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Brands <i
+                    class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu megamenu" role="menu">
+                  <li>
+                    <div class="brands-menu">
+                                              <div class="brands-sports">
+                          <div class="mega-sub-title">
+                            Sports
+                          </div>
+                                                                                <div class="mega-sub">
+                              <ul>
+                                <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/cosco">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/cosco_44190061595.png"
+                                      alt="" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/stiga">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/stiga_39596991674.png"
+                                      alt="STIGA" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/newgy">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/newgy_31760436280.png"
+                                      alt="Newgy" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/tretorn">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/tretron_34950345931.png"
+                                      alt="" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="mr-b-15">
+                                  <a href="https://www.cosco.in/products-brand/adidas">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/adidas_76845841642.png"
+                                      alt="" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                  </div>
+                        <div class="clearfix"></div>
+                                                                      <div class="brands-fitness">
+                          <div class="mega-sub-title">
+                            Fitness
+                          </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/cosco">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/cosco_44190061595.png"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/coscofitness">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/coscofitness_59809706979.png"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/xdegree">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/x_degree_new_logo_2024_93913429132.jpg"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/jkexer">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/jkexer_96542097953.png"
+                                      alt="Jk Exer" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/impluse">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/impulse_9708055183.png"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/adidas">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/adidas_76845841642.png"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/reebok">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/reebok_71388059125.png"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                      <div class="mega-sub">
+                              <ul>
+                                <li class="">
+                                  <a href="https://www.cosco.in/health-fitness-brand/force-usa">
+                                    <img class="img-responsive menu-brand-logo"
+                                      src="https://www.cosco.in/uploads/brand/force_75851111101.png"
+                                      alt="" class="img-responsive" />
+                                                                      </a>
+                                </li>
+                              </ul>
+                            </div>
+                                                  </div>
+                                            </div>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="dropdown menu-large">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">INVESTORS
+                  <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu megamenu" role="menu">
+                  <li>
+                    <div class="investors-menu">
+                      <ul><li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Annual Reports & Notices</li><li class="">
+                                      <a href="https://www.cosco.in/investors/annual-reports" >Annual Reports </a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/notices" >Notices</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Code of Conduct & Policies</li><li class="">
+                                      <a href="https://www.cosco.in/investors/code-of-conduct" >Code of Conduct </a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/policies" >Policies</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Compliances</li><li class="">
+                                      <a href="https://www.cosco.in/investors/authorisation-to-kmps" >Authorisation to KMPs</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/compliance-clause" >Compliance Clause </a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/corpgovernance-report" >Corp.Governance Report</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/related-party-disclosure" >Related Party Disclosure</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/secycompliance-certificate" >Secy.Compliance Certificate</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Financial Results</li><li class="">
+                                      <a href="https://www.cosco.in/investors/financial-results" >Financial Results</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/news-paper-publication" >News Paper Publication</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Investor Information & Downloads</li><li class="">
+                                      <a href="https://www.cosco.in/investors/composition-of-bod-committe" >Composition of BoD & Committe</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/holder-of-physical-securities" >holder of Physical Securities</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/investor-information" >Investor Information </a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/moa-and-aoa" >MoA and AoA</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">SEBI Circulars</li><li class="">
+                                      <a href="https://www.cosco.in/investors/sebi-circulars-odr" >SEBI Circulars - ODR</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Shareholding Pattern</li><li class="">
+                                      <a href="https://www.cosco.in/investors/shareholding-pattern" >Shareholding Pattern</a>
+                                    </li>	</ul>
+        		             			</li>
+        		             			<li class="mega-sub">
+                                    	 	<ul><li class="mega-sub-title line-ht-2">Unclaimed Dividend</li><li class="">
+                                      <a href="https://www.cosco.in/investors/contact-for-investors" >Contact for Investors</a>
+                                    </li><li class="">
+                                      <a href="https://www.cosco.in/investors/unclaimed-dividend" >Unclaimed Dividend</a>
+                                    </li></ul>
+                                </li></ul>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="dropdown menu-large">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">DOWNLOADS
+                  <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu megamenu" role="menu">
+                  <li>
+                    <div class="">
+                                                <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/adidas_catalogue_aw21_2851453804.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/adidas_aw21_cover_25086477902.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/adidas_catalogue_aw21_2851453804.pdf" target="_blank" >Adidas Catalogue </a>
+                                 </li>
+                                     </ul>
+                              </div>  <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/export_catalogue_2026_68528864173.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/export_catalogue_2026_web_page_01_74517607042.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/export_catalogue_2026_68528864173.pdf" target="_blank" >Export Catalogue</a>
+                                 </li>
+                                     </ul>
+                              </div>  <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/fitness_catalogue_2025_25-10-25_web_40057135882.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/fitness_catalogue_2025_88755443851.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/fitness_catalogue_2025_25-10-25_web_40057135882.pdf" target="_blank" >Fitness Catalogue Commercial</a>
+                                 </li>
+                                     </ul>
+                              </div>  <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/fitness_catalogue_home_series_2024_71091562514.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/cover_home_series_catalogue_81047559906.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/fitness_catalogue_home_series_2024_71091562514.pdf" target="_blank" >Fitness Catalogue Home</a>
+                                 </li>
+                                     </ul>
+                              </div>  <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/cosco_price_list_01_12_2025_mrp_print_91741121571.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/cosco_price_list_01_12_2025_mrp_cover_27673592979.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/cosco_price_list_01_12_2025_mrp_print_91741121571.pdf" target="_blank" >Fitness Retail Price </a>
+                                 </li>
+                                     </ul>
+                              </div>  <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/sports_catalogue_2024_99603041347.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/sports_catalogue_2025_1_29265424649.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/sports_catalogue_2024_99603041347.pdf" target="_blank" >Sports Catalogue</a>
+                                 </li>
+                                     </ul>
+                              </div>  <div class="mega-sub">
+                                <ul>
+                                 <li>
+                                  <a href="https://www.cosco.in/reports/download_pdf/mrp_list_1st_oct_2025_ctc_9638052101.pdf" target="_blank" >
+                                  <img src=https://www.cosco.in/uploads/reports/thumbnail/sports_price_list_cover_1st_oct_25_33678069323.jpg style='max-width:180px;height:180px;'>
+                                  </a>
+                                 <a href="https://www.cosco.in/reports/download_pdf/mrp_list_1st_oct_2025_ctc_9638052101.pdf" target="_blank" >Sports Retail Price </a>
+                                 </li>
+                                     </ul>
+                              </div>                                            <div class="clearfix"></div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              <li style="cursor: pointer;"><a href="https://www.cosco.in/contact-us">Contact Us</a>
+              </li>
+              <li style="cursor: pointer; float:right !important;" class="float-right"><a class="shop-fitness"
+                  href="https://store.cosco.in/" target="_blank"><img class="img-responsive btn-shop-now"
+                    src="https://www.cosco.in/assets/img/shop-cart.png" alt="Shop Now" /></a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div><style>.homepage-1 #cat-nav .mega-sub ul li a { padding: 0; color: #282c3f; line-height: 20px!important;}</style>
+
+
+
+
+
+  <div id="main-slider"> <!-- Slider -->
+
+<div id="home-slider" class="owl-carousel owl-theme">
+
+
+              
+
+
+              <div class="item" data-dot="<span class='slider-dots'>1</span>">
+                                                    <img class="img-responsive " data-id="0" src="https://www.cosco.in/uploads/home_banner/ac_18t-01_46168865652.jpg"  alt="Cosco Sports Fitness" class="img-responsive">
+                                       </div>
+
+                            
+
+
+              <div class="item" data-dot="<span class='slider-dots'>1</span>">
+                                                    <img class="img-responsive " data-id="1" src="https://www.cosco.in/uploads/home_banner/delta_force_web_banner-01_73679435702.jpg"  alt="Cosco Sports Fitness" class="img-responsive">
+                                       </div>
+
+                            
+
+
+              <div class="item" data-dot="<span class='slider-dots'>1</span>">
+                                                 <a href="https://www.cosco.in/products/india/pickleball/">
+                               <img class="img-responsive " data-id="2" src="https://www.cosco.in/uploads/home_banner/pickleball_web_banner-01_12159093589.jpg"  alt="Cosco Sports Fitness" class="img-responsive">
+                           </a>
+                                       </div>
+
+               
+  
+ 
+</div>
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<div id="content"> 
+
+
+  <div class="container-fluid hidden-xs">
+  <div class="home-content">
+    <div class="cat-offers">
+      <div class="">
+
+        <!------------------------------------------------------ BANNER LIST ------------------------------------------------------->
+        
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_image-03_30760752167.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>ONE TEAM</h2><h3>ONE DREAM</h3><a href="http://www.cosco.in/products/india/basket-ball/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_image-09_15728574268.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>TAKE YOUR TRAINING</h2><h3>FURTHER</h3><a href="https://www.cosco.in/health-fitness-brand/adidas" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_footall_93594189184.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>EAT, SLEEP, PLAY</h2><h3>SOCCER</h3><a href="http://www.cosco.in/products/india/football/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/cosco_skate__homepage-2023_45233349730.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>RIDE N FAST</h2><h3> ALL THE TIME</h3><a href="https://www.cosco.in/products/india/skate-board-2/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_image-04_99262373759.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>JUST DO </h2><h3>CRICKET</h3><a href="https://www.cosco.in/products/india/cricket/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/cosco_homepage-2023_43413679264.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>BUILDING WORLD CHAMPIONS </h2><h3>SINCE 1994</h3><a href="https://www.cosco.in/products/india/table-tennis/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_volleyball_6364608531.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>CAN'T STOP</h2><h3>THE RISE..</h3><a href="http://www.cosco.in/products/india/volley-ball/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_fitness_25544141897.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>FOR HEALTHY</h2><h3> LIFESTYLE</h3><a href="https://www.cosco.in/health-fitness/cardio/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+
+
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/force_usa_home_page_image-10_61811502654.jpg" class="img-responsive" alt="">
+            <div class="pop_light_box"><h2>SPACE SAVING </h2><h3>ALL-IN-ONE GYMS</h3><a href="https://forceusa.in/" target="_blank" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+                
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container visible-xs">
+  <div class="home-content">
+    <div class="cat-offers">
+      <div class="row">
+
+        <!------------------------------------------------------ BANNER LIST ------------------------------------------------------->
+        
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_image-03_30760752167.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>ONE TEAM</h2><h3>ONE DREAM</h3><a href="http://www.cosco.in/products/india/basket-ball/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_image-09_15728574268.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>TAKE YOUR TRAINING</h2><h3>FURTHER</h3><a href="https://www.cosco.in/health-fitness-brand/adidas" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_footall_93594189184.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>EAT, SLEEP, PLAY</h2><h3>SOCCER</h3><a href="http://www.cosco.in/products/india/football/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/cosco_skate__homepage-2023_45233349730.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>RIDE N FAST</h2><h3> ALL THE TIME</h3><a href="https://www.cosco.in/products/india/skate-board-2/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_image-04_99262373759.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>JUST DO </h2><h3>CRICKET</h3><a href="https://www.cosco.in/products/india/cricket/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/cosco_homepage-2023_43413679264.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>BUILDING WORLD CHAMPIONS </h2><h3>SINCE 1994</h3><a href="https://www.cosco.in/products/india/table-tennis/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_volleyball_6364608531.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>CAN'T STOP</h2><h3>THE RISE..</h3><a href="http://www.cosco.in/products/india/volley-ball/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/home_page_fitness_25544141897.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>FOR HEALTHY</h2><h3> LIFESTYLE</h3><a href="https://www.cosco.in/health-fitness/cardio/" target="_parent" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+        
+
+        
+        <div class="col-xs-6 col-sm-4 col-md-4 light_pop">
+          <div class="cat-sec-3">
+            <img class="img-responsive" src="https://www.cosco.in/uploads/home_banner/force_usa_home_page_image-10_61811502654.jpg" class="img-responsive" alt=""             >
+            <div class="pop_light_box"><h2>SPACE SAVING </h2><h3>ALL-IN-ONE GYMS</h3><a href="https://forceusa.in/" target="_blank" > <small class="plus_link"></small></a></div>          </div>
+        </div>
+
+                
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="newest hidden-xs">
+  <div class="container">
+    <div class="newest-content">
+      <div class="newest-tab">
+        <ul id="newest_tab_list" class="nav nav-tabs newest" role="tablist" >
+   
+         <li class="active" role="presentation">
+            <a href="#item_id0" role="tab" id="cat-0" data-toggle="tab" aria-controls="0">BESTSELLERS</a>
+          </li>
+
+    
+         <li class="" role="presentation">
+            <a href="#item_id1" role="tab" id="cat-1" data-toggle="tab" aria-controls="1">NEW ARRIVAL</a>
+          </li>
+
+    
+
+        </ul>
+        
+        
+        <div id="myTabContent" class="tab-content">
+
+          
+           
+          <div role="tabpanel" class="tab-pane fade in active" id="item_id0" aria-labelledby="cat-0">
+            
+            <div class="row newest_product_list">
+            <!-- <div class="row "> -->
+           
+                         
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/super-volley" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/super-vb_18904368533.jpg"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Super Volley              </p>
+              <span><p>Genuine Leather Pasted 18 Panel</p></span>
+              <span class="product-price">
+                MRP : ₹1680.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/super-volley" data-img-url="https://www.cosco.in/products-details/india/cosco/super-volley">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/carbon-arc" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/carbon-arc_73422530893.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Carbon ARC              </p>
+              <span><p>100% Carbon Surface, Professional Play</p></span>
+              <span class="product-price">
+                MRP : ₹3800.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/carbon-arc" data-img-url="https://www.cosco.in/products-details/india/cosco/carbon-arc">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/health-fitness-details/coscofitness/ac-350-treadmill" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/fitness/main_image/list/ac350_7446894937.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Coscofitness             </span>
+              <p id="title-prod">
+                AC 350 Treadmill              </p>
+              <span><p>1.75 HP AC Continuous (3.5 HP Peak) </p></span>
+              <span class="product-price">
+                MRP : ₹81200.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/health-fitness-details/coscofitness/ac-350-treadmill" data-img-url="https://www.cosco.in/health-fitness-details/coscofitness/ac-350-treadmill">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/portugal-s5" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/portugal-2_86353026861.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Portugal S-5              </p>
+              <span><p>PVC, Machine Stitched S-5</p></span>
+              <span class="product-price">
+                MRP : ₹665.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/portugal-s5" data-img-url="https://www.cosco.in/products-details/india/cosco/portugal-s5">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/health-fitness-details/coscofitness/chg-200c-home-gym" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/fitness/main_image/list/chg_200c_63199908267.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Coscofitness             </span>
+              <p id="title-prod">
+                CHG 200C Home Gym              </p>
+              <span><p>Home Gym with 100 Kgs.Weight Stack.</p></span>
+              <span class="product-price">
+                MRP : ₹70200.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/health-fitness-details/coscofitness/chg-200c-home-gym" data-img-url="https://www.cosco.in/health-fitness-details/coscofitness/chg-200c-home-gym">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/sixxerfull" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/sixxer-mix-1_5767973653.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Sixxer-Full              </p>
+              <span><p>Plastic Cricket Tennis Bat,50mm Bulge</p></span>
+              <span class="product-price">
+                MRP : ₹430.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/sixxerfull" data-img-url="https://www.cosco.in/products-details/india/cosco/sixxerfull">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/cricket-tennis-ltwt" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/cicket_tennis_lt_wt_-24-july-2022_(4)_11536863195.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Cricket Tennis Lt.Wt.              </p>
+              <span><p>Light Weight Cricket Tennis Balls Packed in Box Pack of 6 Balls</p></span>
+              <span class="product-price">
+                MRP : ₹528.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/cricket-tennis-ltwt" data-img-url="https://www.cosco.in/products-details/india/cosco/cricket-tennis-ltwt">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/tenacity-super-sr" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/tenacity_roller_skate_82766135118.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Tenacity Super Sr.              </p>
+              <span><p>Senior, Rubber Wheels, Adjustable size with Brake</p></span>
+              <span class="product-price">
+                MRP : ₹1275.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/tenacity-super-sr" data-img-url="https://www.cosco.in/products-details/india/cosco/tenacity-super-sr">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/cz-50-twin-racket-hobby" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/cz-50_32738694427.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                CZ 50 Twin Racket - Hobby              </p>
+              <span><p>Aluminium Frame Temp.Steel Shaft(Twin Racket), Full Cover</p></span>
+              <span class="product-price">
+                MRP : ₹685.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/cz-50-twin-racket-hobby" data-img-url="https://www.cosco.in/products-details/india/cosco/cz-50-twin-racket-hobby">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/dribble-s7" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/dribble-7-aug-24_61421085006.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Dribble S-7              </p>
+              <span><p>Rubber Moulded  </p></span>
+              <span class="product-price">
+                MRP : ₹865.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/dribble-s7" data-img-url="https://www.cosco.in/products-details/india/cosco/dribble-s7">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+             
+          </div>
+        </div>
+
+
+
+    
+           
+          <div role="tabpanel" class="tab-pane fade " id="item_id1" aria-labelledby="cat-1">
+            
+            <div class="row newest_product_list">
+            <!-- <div class="row "> -->
+           
+                         
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/arc-2" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/stiga_arc_2_42114682805.jpg"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                Arc 2              </p>
+              <span><p>A padel racket with a generous hitting area</p></span>
+              <span class="product-price">
+                MRP : ₹14155.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/arc-2" data-img-url="https://www.cosco.in/products-details/india/stiga/arc-2">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/stiga-dna-pro-m" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/dna-pro-m_48038873775.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                Stiga DNA Pro M              </p>
+              <span><p>2.1mm Max. Perfect Balance Between Control and Speed</p></span>
+              <span class="product-price">
+                MRP : ₹6650.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/stiga-dna-pro-m" data-img-url="https://www.cosco.in/products-details/india/stiga/stiga-dna-pro-m">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-blue" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/polo_shirt_blue_(2)_18201290874.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                T Shirt POLO Blue              </p>
+              <span><p>Lt.Wt Poly Mesh Fabric, Optimal Airflow for Coolness.</p></span>
+              <span class="product-price">
+                MRP : ₹3885.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-blue" data-img-url="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-blue">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-red" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/polo_shirt_red_(1)_60392441408.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                T Shirt POLO Red              </p>
+              <span><p>Lt.Wt Poly Mesh Fabric, Optimal Airflow for Coolness.</p></span>
+              <span class="product-price">
+                MRP : ₹3885.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-red" data-img-url="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-red">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/battle" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/padel_bolt_front_41935866207.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Battle              </p>
+              <span><p>100% Carbon with 420D Full Cover</p></span>
+              <span class="product-price">
+                MRP : ₹7600.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/battle" data-img-url="https://www.cosco.in/products-details/india/cosco/battle">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+                            
+
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/s-5000" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/s5000_wrb_23287930185.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                S 5000              </p>
+              <span><p>WRB, 5 Ply blade for Beginners</p></span>
+              <span class="product-price">
+                MRP : ₹4180.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/s-5000" data-img-url="https://www.cosco.in/products-details/india/stiga/s-5000">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+             
+          </div>
+        </div>
+
+
+
+            
+      <!--  -->
+  </div>
+</div>
+</div>
+
+</div>
+
+</div>
+<style>.homepage-1 .prdct-grid {
+    width: 220px !important;
+    min-height: 0;
+    position: relative;
+}
+.product-fade-wrap img {
+    margin: 15px auto;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;}
+
+.newest_product_list.slick-initialized.slick-slider .slick-slide {
+    margin: 0px -10px;
+}
+.newest_product_list.slick-initialized.slick-slider .slick-slide img {
+    /* width: 95%; */
+    width: auto !important;
+    height: auto !important;
+    max-width: 100%;
+    max-height: 200px;
+    line-height: 200px;
+    vertical-align: middle;
+}
+.product-fade-wrap {
+   min-height: 200px;
+    line-height: 200px;
+  /*  width: 100% !important;*/
+    height: auto;
+  /* padding: 0px 30px;*/
+    margin: 15px 0;
+    /* min-width: 493px; */
+    cursor: pointer;
+}
+.slick-slide img {
+    padding: 5%;}
+
+    .news__arrow_dir_left {
+    /* background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/2015738/arrows__left.png) no-repeat; */
+    left: 0px;
+    z-index: 1!important;
+}
+.news__arrow_dir_right {
+    /* background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/2015738/arrows__right.png) no-repeat; */
+    right: 0px;
+   z-index: 1!important;
+}
+.newest-tab>ul>li a{ outline:0;}
+</style>  
+
+    
+
+
+</div>
+
+
+  
+   
+
+
+
+
+
+<div class="visible-xs slider-mobile">
+	<div class="main-heading"><h3>BESTSELLERS</h3></div>
+	<div class="new-arriving-product-mob">
+		 
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/super-volley" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/super-vb_18904368533.jpg"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Super Volley              </p>
+              <span><p>Genuine Leather Pasted 18 Panel</p></span>
+              <span class="product-price">
+                MRP : ₹1680.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/super-volley" data-img-url="https://www.cosco.in/products-details/india/cosco/super-volley">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/carbon-arc" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/carbon-arc_73422530893.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Carbon ARC              </p>
+              <span><p>100% Carbon Surface, Professional Play</p></span>
+              <span class="product-price">
+                MRP : ₹3800.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/carbon-arc" data-img-url="https://www.cosco.in/products-details/india/cosco/carbon-arc">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/health-fitness-details/coscofitness/ac-350-treadmill" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/fitness/main_image/list/ac350_7446894937.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Coscofitness             </span>
+              <p id="title-prod">
+                AC 350 Treadmill              </p>
+              <span><p>1.75 HP AC Continuous (3.5 HP Peak) </p></span>
+              <span class="product-price">
+                MRP : ₹81200.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/health-fitness-details/coscofitness/ac-350-treadmill" data-img-url="https://www.cosco.in/health-fitness-details/coscofitness/ac-350-treadmill">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/portugal-s5" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/portugal-2_86353026861.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Portugal S-5              </p>
+              <span><p>PVC, Machine Stitched S-5</p></span>
+              <span class="product-price">
+                MRP : ₹665.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/portugal-s5" data-img-url="https://www.cosco.in/products-details/india/cosco/portugal-s5">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/health-fitness-details/coscofitness/chg-200c-home-gym" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/fitness/main_image/list/chg_200c_63199908267.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Coscofitness             </span>
+              <p id="title-prod">
+                CHG 200C Home Gym              </p>
+              <span><p>Home Gym with 100 Kgs.Weight Stack.</p></span>
+              <span class="product-price">
+                MRP : ₹70200.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/health-fitness-details/coscofitness/chg-200c-home-gym" data-img-url="https://www.cosco.in/health-fitness-details/coscofitness/chg-200c-home-gym">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/sixxerfull" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/sixxer-mix-1_5767973653.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Sixxer-Full              </p>
+              <span><p>Plastic Cricket Tennis Bat,50mm Bulge</p></span>
+              <span class="product-price">
+                MRP : ₹430.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/sixxerfull" data-img-url="https://www.cosco.in/products-details/india/cosco/sixxerfull">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/cricket-tennis-ltwt" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/cicket_tennis_lt_wt_-24-july-2022_(4)_11536863195.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Cricket Tennis Lt.Wt.              </p>
+              <span><p>Light Weight Cricket Tennis Balls Packed in Box Pack of 6 Balls</p></span>
+              <span class="product-price">
+                MRP : ₹528.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/cricket-tennis-ltwt" data-img-url="https://www.cosco.in/products-details/india/cosco/cricket-tennis-ltwt">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/tenacity-super-sr" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/tenacity_roller_skate_82766135118.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Tenacity Super Sr.              </p>
+              <span><p>Senior, Rubber Wheels, Adjustable size with Brake</p></span>
+              <span class="product-price">
+                MRP : ₹1275.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/tenacity-super-sr" data-img-url="https://www.cosco.in/products-details/india/cosco/tenacity-super-sr">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/cz-50-twin-racket-hobby" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/cz-50_32738694427.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                CZ 50 Twin Racket - Hobby              </p>
+              <span><p>Aluminium Frame Temp.Steel Shaft(Twin Racket), Full Cover</p></span>
+              <span class="product-price">
+                MRP : ₹685.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/cz-50-twin-racket-hobby" data-img-url="https://www.cosco.in/products-details/india/cosco/cz-50-twin-racket-hobby">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/dribble-s7" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/dribble-7-aug-24_61421085006.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Dribble S-7              </p>
+              <span><p>Rubber Moulded  </p></span>
+              <span class="product-price">
+                MRP : ₹865.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/dribble-s7" data-img-url="https://www.cosco.in/products-details/india/cosco/dribble-s7">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+
+    </div>
+</div>
+
+ 
+
+
+
+
+
+<div class="visible-xs slider-mobile">
+	<div class="main-heading"><h3>NEW ARRIVAL</h3></div>
+	<div class="new-arriving-product-mob">
+		 
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/arc-2" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/stiga_arc_2_42114682805.jpg"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                Arc 2              </p>
+              <span><p>A padel racket with a generous hitting area</p></span>
+              <span class="product-price">
+                MRP : ₹14155.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/arc-2" data-img-url="https://www.cosco.in/products-details/india/stiga/arc-2">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/stiga-dna-pro-m" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/dna-pro-m_48038873775.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                Stiga DNA Pro M              </p>
+              <span><p>2.1mm Max. Perfect Balance Between Control and Speed</p></span>
+              <span class="product-price">
+                MRP : ₹6650.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/stiga-dna-pro-m" data-img-url="https://www.cosco.in/products-details/india/stiga/stiga-dna-pro-m">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-blue" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/polo_shirt_blue_(2)_18201290874.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                T Shirt POLO Blue              </p>
+              <span><p>Lt.Wt Poly Mesh Fabric, Optimal Airflow for Coolness.</p></span>
+              <span class="product-price">
+                MRP : ₹3885.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-blue" data-img-url="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-blue">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-red" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/polo_shirt_red_(1)_60392441408.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                T Shirt POLO Red              </p>
+              <span><p>Lt.Wt Poly Mesh Fabric, Optimal Airflow for Coolness.</p></span>
+              <span class="product-price">
+                MRP : ₹3885.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-red" data-img-url="https://www.cosco.in/products-details/india/stiga/t-shirt-polo-red">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/cosco/battle" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/padel_bolt_front_41935866207.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              Cosco             </span>
+              <p id="title-prod">
+                Battle              </p>
+              <span><p>100% Carbon with 420D Full Cover</p></span>
+              <span class="product-price">
+                MRP : ₹7600.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/cosco/battle" data-img-url="https://www.cosco.in/products-details/india/cosco/battle">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+          <div class="prdct-grid">
+        <a href="https://www.cosco.in/products-details/india/stiga/s-5000" class="active">
+          <div class="product-fade">
+            <div class="product-fade-wrap">
+              <div class="product-image">
+                     <img class="img-responsive" src="https://www.cosco.in/uploads/products/main_image/list/s5000_wrb_23287930185.png"  alt="" class="img-responsive" />
+              </div>
+            </div>
+          </div>
+          <div class="product-name home-items">
+            <span>
+              STIGA             </span>
+              <p id="title-prod">
+                S 5000              </p>
+              <span><p>WRB, 5 Ply blade for Beginners</p></span>
+              <span class="product-price">
+                MRP : ₹4180.00              </span>
+
+            </div> 
+            <div class="product-actions-home">
+                <span class="product-wishlist-2" style="width: 100%; text-align: center;" id="https://www.cosco.in/products-details/india/stiga/s-5000" data-img-url="https://www.cosco.in/products-details/india/stiga/s-5000">Detail </span>
+            </div>
+
+            
+        </a>
+    </div>
+
+
+  
+
+              
+          
+             
+
+    </div>
+</div>
+
+ 
+<!-- <style>
+  $('.autoplay').slick({
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 2000,
+});</style> --><div class="container">
+<div class="row padding-space-home">
+<div class="col-md-6 video-left ab-w3-agile-img"><img alt="" src="https://www.cosco.in/uploads/ckeditor/images/about.jpg" style="width: 100%; height: 100%; float: right; border-width: 1px; border-style: solid; margin-left: 1px; margin-right: 1px;" /></div>
+
+<div class="col-md-6 ab-w3-agile-info">
+<div class="ab-w3-agile-info-text">
+<h2>About COSCO (India) Limited</h2>
+
+<p style="text-align:justify">COSCO (India) Limited was established in 1980 is India&#39;s leading Sports, Fitness and Lifestyle brand. We are a Public Company, listed on the Bombay Stock Exchange (BSE).<br />
+<br />
+We at COSCO believe in providing Premium Quality Products backed up by efficient After Sales Service. We have a state of art 3,50,000+ Sq.ft. production facility in Gurugram with a Highly Skilled team of 650+ personnel managing Production, Sales and Service. Our R &amp; D team is spearheaded by Qualified Technologists and Engineers who constantly innovate and develop our Product Range.<br />
+<br />
+We also represent many International Brands in India through our strong network of over 800+ Dealers. <span style="text-align: justify;">COSCO</span> has established a strong legacy over 4 decades with innumerable achievements, strong associations, International Approvals and National &amp; State Level affiliations.</p>
+
+<p style="text-align:justify"><o:p></o:p></p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="brands">
+<div class="container">
+<div class="brands-inner">
+<div class="brand-title">
+<span>Brands</span>
+</div>
+
+
+
+<div id="slider-home"> <!-- Slider -->
+<div id="brand-carousel" class="owl-carousel owl-theme">
+
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/adidas_76845841642.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/cosco_44190061595.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/coscofitness_59809706979.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/force_75851111101.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/impulse_9708055183.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/jkexer_96542097953.png" alt="Jk Exer" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/newgy_31760436280.png" alt="Newgy" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/reebok_71388059125.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/stiga_39596991674.png" alt="STIGA" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/tretron_34950345931.png" alt="" class="img-responsive">
+
+</div>
+	
+<div class="item">
+<img class="img-responsive" src="https://www.cosco.in/uploads/brand/x_degree_new_logo_2024_93913429132.jpg" alt="" class="img-responsive">
+
+</div>
+
+</div>
+</div> <!-- Slider -->
+
+</div>
+</div>
+</div>
+
+<style>
+@media (min-width:768px){
+#brand-carousel.owl-carousel .owl-item {
+	float: none;
+	vertical-align: middle;
+	display: inline-block;
+}
+.slick-slide{margin:10px 30px;}
+#brand-carousel .item img{
+   padding: 15px 0px;
+   line-height: 50px;
+   display:inline-block;
+   margin: 0 auto;
+   max-width: 75%;
+   cursor: pointer;
+   position: relative;
+   margin-top: 1px;
+   margin-bottom: 5px;
+}
+.homepage-1 .prdct-grid{
+    width: 200px;
+    min-height: 0;
+    position: relative;
+    padding: 0px 12px!important;}
+}
+</style>  
+
+
+
+
+
+
+<div class="clearfix"></div>
+<div id="footer">
+
+
+<div class="footer-widget">
+    <div class="container">
+      <div class="row-box">
+        <div class="col-box">
+          <div class="text-widget">
+            <div class="wid-title">Welcome to</div>
+              <img src="https://www.cosco.in/assets/theme/images/logo-footer.png" alt="ft-logo">
+            <p>
+            COSCO (India) Ltd. is a leader in sports goods in India having a very strong image and reputation in the industry.
+          </p>
+          <ul class="ft-soc clearfix">
+            <li>
+              <a href="https://www.facebook.com/coscoindia/?fref=ts" target="_blank">
+               <img src="https://www.cosco.in/assets/icon/social/facebook.png" style="width:35px">
+              </a>
+            </li>
+            <!-- <li><a href="https://twitter.com/coscoindia" target="_blank"><i class="fa fa-twitter"></i></a></li> -->
+            <li>
+              <a href="https://twitter.com/coscoindia" target="_blank" style="width: 100%;height: 35px;margin-top: 4px;    background: #fff;
+    border-radius: 6px;">
+            
+              <img src="https://www.cosco.in/assets/icon/social/x.png" style="width:35px">
+            </a></li>
+          
+            <li><a href="https://www.instagram.com/coscoindia" target="_blank">
+              
+              <img src="https://www.cosco.in/assets/icon/social/instagram.png" style="width:35px">
+            </a></li>
+            <li><a href="https://www.linkedin.com/company/cosco-india-ltd-/" target="_blank">
+          
+              <img src="https://www.cosco.in/assets/icon/social/linkedin.png" style="width:35px">
+            </a></li>
+          
+
+            <li><a href="https://www.youtube.com/channel/UCfHu6klAvyIk4F_Gm0brYtQ" target="_blank">
+              <!-- <i class="fa fa-youtube" aria-hidden="true"></i> -->
+              <img src="https://www.cosco.in/assets/icon/social/youtube.png" style="width:35px">
+            </a></li>
+
+          
+
+          </ul>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+      <div class="col-box">
+        <div class="quick-links">
+          <div class="wid-title">Quick Links</div>
+          <ul>
+     
+            <li><a href="https://www.cosco.in/about-us/vision">Vision</a></li>
+            <li><a href="https://www.cosco.in/about-us/mission">Mission</a></li>
+            <li><a href="https://www.cosco.in/about-us/values">Values</a></li>
+            <li><a href="https://www.cosco.in/about-us/brand-story">Brand Story</a></li>
+            <li><a href="https://www.cosco.in/certifications">Certifications</a></li>
+            <li><a href="https://www.cosco.in/sustainability">Sustainability</a></li>
+
+         
+          </ul>
+
+
+
+
+           
+  
+
+        </div>
+      </div>
+      <div class="col-box">
+        <div class="term">
+          <div class="wid-title">Customer Care</div>
+          <p>
+   
+                 <a href="" style="padding-top: 5px;">0124-2252988</a>
+                 <a href="https://mail.cosco.in:2096/3rdparty/roundcube/index.php" style="padding-top: 10px;">Check E-mail</a>
+              
+            <a href="https://www.payumoney.com/paybypayumoney/#/52D8458D19025669EE275D1D3C9E729F" target="_blank" rel="nofollow" title="Make a Payment"><img class="img-responsive" src="https://www.cosco.in/assets/theme/images/pay.png" style="padding-top: 10px;"></a>
+          </p>
+
+
+        </div>
+      </div>
+      <div class="col-box">
+        <div class="quick-links-head-office">
+          <div class="wid-title">Head Office, Corporate & Marketing Office</div>
+          
+          <ul>
+            <li>2/8, Roop Nagar, Delhi - 110007</li>
+            <li>t : +91-11-23843000</li>
+            <li>b : +91-11-41849999</li>
+            <li>f : +91-11-23846000</li>
+            <li>e : mail@cosco.in</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-box">
+        <div class="subscribe">
+          <div class="wid-title">Subscribe for Offers & Updates</div>
+          <p>
+            Enter your email and we'll send you a coupon
+            with 10% off your next order.
+          </p>
+          <form method="post" name="newletter_frm" id="newletter_frm">
+
+            <div class="form-group">
+              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email" name="email" id="email" required>
+            </div>
+      
+            <button  class="btn btn-default" id="BtnClick">Subscribe Now</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div class="footer-text">
+  <div class="container">
+    <div class="row">
+    <div class="col-md-9" style="text-align: left;">
+    <p>© Copyright 2025 Cosco (India) Limited. All Rights Reserved.</p></div>
+
+    <div class="col-md-3 social-ft" style="text-align: right;">
+          <ul class="social_m">
+
+
+
+            <li style="text-align: right;"><a href="http://ml.jil.in/" target="_blank"><img class="" src="https://www.cosco.in/assets/images/jil-icon-round-16.gif" align="Website by Jingle Infotech Limited" title="Website by Jingle Infotech Limited" border="0" hspace="5" alt="jil icon round"></a></li>
+                      </ul>
+       </div></div>
+  </div>
+</div>  
+</div>
+
+<div id="sidebar" style="">
+
+     <h5 class="last_crumb" style="text-align:center">COMPARISON</h5>
+    <ul>
+    
+    </ul>
+    <div class="text-center" style="padding-bottom: 6px;">
+        <button type="button" class="btn btn-info btn-xs middle" id="compbtn">Compare</button>
+    </div>
+</div>
+
+
+
+<style>
+  #sidebar {
+    border-top-left-radius: 5px;
+    position: fixed;
+    min-width: 250px;
+    min-height: 100px;
+    z-index: 200;
+    right: 0px;
+    background-color: #f0f0f0;
+    border: 1px solid #e4e4e4;
+    bottom: 0px;
+    background: #fff;
+    padding: 10px;
+    display: none;
+}
+body #sidebar h5 {
+    text-align: left!important;
+    font-weight: 600;
+    margin: 0 0 0 0;
+    padding: 0 0 10px 0;
+    font-size: 17px;
+}
+.last_crumb {
+    color: #C30;
+}
+#sidebar ul {
+    text-decoration: none;
+    padding: 5px;
+    list-style: none;
+    border: 1px solid #e4e4e4;
+}
+.text-center {
+    text-align: center;
+}
+#sidebar button {
+    padding: 2px 5px;
+    background: #dc1125;
+    border: 0;
+}
+
+
+.modal-backdrop.fade.in{
+    z-index: -5;
+}
+</style>
+
+
+
+
+
+<script>
+$(document).ready(function () {
+    var count = 0;
+    $(document).on('click', 'span.compare', function (e) {
+        e.preventDefault(); 
+        count++;
+        comp_counter(count);
+        if(count<4){
+            var cimg = $(this).parentsUntil("li.product-base").find(".resize_fit_center").attr( "src" );
+
+            var prod_code = $(this).parentsUntil("li.product-base").find("#title-prod").html();
+            var prod_id  = $(this).attr('id');
+            cimg = cimg.replace("/main_image/list/", "/main_image/thumbs/");
+            
+            var comp_str = '<li id="'+prod_id+'"><span class="comimgcls"><img src="'+cimg+'" style="width:50px;height:50px"></span> '+prod_code+' <i class="fa fa-times-circle" title="remove"></i></li>';
+            $("div#sidebar ul").append(comp_str);
+            $("#sidebar").show();
+            
+        }else{
+            count = 3;
+        }
+        
+    });
+    
+    // Remove compare data from list
+    $(document).on('click', "div#sidebar ul li i.fa-times-circle", function (e) {
+        e.preventDefault();
+        count--;
+        comp_counter(count);
+        $(this).parent().remove();
+        if (count != 0) {
+         $("#sidebar").show();
+        }else{
+         $("#sidebar").hide();
+
+        }
+        
+    });
+    
+    function comp_counter(count){
+        //var count; 
+        //alert("hi=>" + count);
+        if(count>0){
+            $("div#sidebar").show();
+        }else{
+            $("div#sidebar").hide();
+        }
+        
+        if(count > 3){
+            alert("Comparison only for 3 products");
+            return false;
+        }
+    }
+    
+    // Compare button fun
+    $(document).on('click', "button#compbtn", function (e) {
+        e.preventDefault();
+        var pageURL = $(location). attr("href");
+        var controllerName = "health-fitness";
+        if ( (pageURL.indexOf("products") >= 0) || (pageURL.indexOf("products-details") >= 0) ){
+            var controllerName = "products";
+        }
+        var prod_id_ary = [];
+        $('div#sidebar ul li').each(function () {
+           prod_id_ary.push($(this).attr("id"));
+        });
+        
+        if( (prod_id_ary.length) < 2 ){
+            alert("Compare at least 2 and up to 3 products");
+            return false;
+        }
+        var prod_id_str = prod_id_ary.join();
+        var host =  window.location.origin+'/';
+        var comp_url = host+controllerName+"/compare?id="+prod_id_str;
+        window.location = comp_url;
+        return false;
+    });
+});
+    
+</script><!-- <a href="#" class="scrollToTop" style="display: inline;"> <img class="img-responsive" src="https://www.cosco.in/assets/theme/images/top.png" width="35" height="35" alt=""/></a> -->
+
+<a href="#" class="scrollToTop" style="display: inline;">
+<div class="goto-top" style="bottom: 5%; transform: scale(1, 1);">
+  <svg width="20" height="20" viewBox="0 0 20 20" xmlns="https://www.w3.org/2000/svg" data-svg="arrow-up">
+    <polygon points="10.5,4 15.37,9.4 14.63,10.08 10.5,5.49 6.37,10.08 5.63,9.4"></polygon>
+    <line fill="none" stroke="#000" x1="10.5" y1="16" x2="10.5" y2="5"></line>
+  </svg>
+</div></a>
+
+
+
+
+<style>
+.goto-top{
+    padding: 0px!important;
+    text-align: center;
+    font-weight: bold;
+    color: #f76838;
+    text-decoration: none;
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    display: none;}
+   /* font-size: 12px;
+    background:#c7c7c7!important;
+    border: 2px solid #c7c7c7!important;
+    outline: none;
+    border-radius: 50% !important;
+*/
+
+.goto-top { width: 40px; height: 40px; border-radius: 50%; -webkit-transition: all .5s ease-out; -moz-transition: all .5s ease-out; -o-transition: all .5s ease-out; transition: all .5s ease-out; position: fixed; bottom: 5%; right: 20px; background-color:#fff; cursor: pointer; display: flex; align-items: center; justify-content: center; transform: scale(0, 0); box-shadow: 0 1px 3px rgba(0, 0, 0, .25); z-index: 9999 }
+.goto-top svg { width: 65%; height: 65%; opacity: .5 }
+.goto-top:hover svg { opacity: 1 }
+
+</style>
+
+<script>
+	
+$(document).ready(function() {
+
+	// Scroll to top
+    //Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 100) {
+			$('.scrollToTop').fadeIn();
+		} else {
+			$('.scrollToTop').fadeOut();
+		}
+	});
+	
+	//Click event to scroll to top
+	$('.scrollToTop').click(function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+
+});
+
+
+
+</script>  
+<style type="text/css">
+@media (max-width: 480px) {        
+    .row-box {   
+      display: grid!important; 
+      margin-right: 15px!important;
+      margin-left: 15px!important;
+    }
+  .col-box {
+      display: block!important;
+      -ms-flex-preferred-size: 0;
+      flex-basis: initial!important;
+      -ms-flex-positive: 1!important;
+      flex-grow: 1!important;
+      max-width: 100%;
+  }
+  .quick-links-head-office ul {
+      list-style: none;
+      margin-left: 0px!important;
+  }
+}</style>
+<div class="overlay-1"></div>
+<div class="modal fade" id="youtube_video">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body youtube_video_body">
+                <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>               
+            </div>
+        </div>
+    </div>
+</div>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script> -->
+<script src="https://www.cosco.in/assets/theme/js/mobile_menu.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/bootstrap.min.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/owl.carousel.min.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/jquery.raty.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/ui.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/jquery.prettyPhoto.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/jquery.selectbox-0.2.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/theme-script.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/easyResponsiveTabs.js"></script>
+<!-- <script src="https://www.cosco.in/assets/theme/js/mobissle-slider.js"></script>  -->
+<script src="https://www.cosco.in/assets/theme/js/zeynep.js"></script>
+<script src="https://www.cosco.in/assets/theme/js/slick.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.19/jquery.touchSwipe.min.js"></script>
+<link href="https://www.cssscript.com/wp-includes/css/sticky.css" rel="stylesheet" type="text/css">
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.js"></script>
+<script src="https://www.cosco.in/assets/lightbox/ekko-lightbox.js"></script>
+<script src="https://www.cosco.in/assets/js/jquery.etalage.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  // delegate calls to data-toggle="lightbox"
+  $(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+    event.preventDefault();
+          console.log('clcick')
+    return $(this).ekkoLightbox({
+           alwaysShowClose: true,
+           showArrows:true,
+      onShown: function() {
+        if (window.console) {
+          return console.log('Checking our the events huh?');
+        }
+      },
+      onNavigate: function(direction, itemIndex) {
+        if (window.console) {
+          return console.log('Navigating '+direction+'. Current item: '+itemIndex);
+        }
+      }
+    });
+  });
+});
+</script>
+
+<!-- new js code start  -->
+<script type="text/javascript">
+/*$(function() {
+  $('.navbar-nav li' ).hover(function(e) {
+        $(this).addClass( 'active' );
+  },function(e) {
+        $(this).removeClass( 'active' );
+  }); 
+});*/
+jQuery(document).ready(function($){
+    $('#fpZoomview').etalage({
+    	thumb_image_width: 460,
+    	thumb_image_height: 490,
+    	source_image_width: 1000,
+    	source_image_height: 889,
+    	zoom_area_width: 500,
+    	zoom_area_height: 475,
+    	zoom_area_distance: 30,
+    	small_thumbs: 4,
+    	smallthumb_inactive_opacity: 0.3,
+    	smallthumbs_position: 'left',
+    	smallthumb_hide_single: false,
+      click_to_zoom: true,
+    	show_icon: false,
+    	autoplay: false,
+    	keyboard: false,
+    	zoom_easing: false,
+      /*disable:true,*/
+      show_hint: false,
+      right_to_left:true,
+       click_callback: function(image_anchor, instance_id){
+        alert('Callback example:\nYou clicked on an image with the anchor: "'+image_anchor+'"\n(in Etalage instance: "'+instance_id+'")');
+        }
+    });
+	$('#fpZoomview .btn-prev').on('click', function(e){ e.preventDefault();
+		fpZoomview_previous(); /*instance_id+'_previous'*/
+	});
+	$('#fpZoomview .btn-next').on('click', function(e){ e.preventDefault();
+		fpZoomview_next();
+	});
+
+    $("#newletter_frm").submit(function(e){
+        e.preventDefault();
+        var email = document.newletter_frm.email.value;
+        var atpos = email.indexOf("@");
+        var dotpos = email.lastIndexOf(".");
+        if(email.length=="0"){
+            alert("Please Enter your email address");
+            return false;
+        }
+        if (atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length) {
+          alert("Please Enter valid email address");
+          return false;
+        }
+        var baseurl = window.location.origin+"/newsletter/subscribe";
+        var form_data = email;
+        $.ajax({
+          type: "POST",
+          url: baseurl,
+          data: {"email": email},  // fix: need to append your data to the call
+          success: function (data) {
+            if(data == 'E'){
+                alert("Email Already exists");
+                $("input#email").val('');
+                return false;
+              } else if(data == 'Y'){
+                alert("Newsletter successfully subscribed");
+                return false;
+              } else {
+                alert("Not subscribe, Try again.");
+                return false;
+              }
+          }
+        });
+    });
+});
+</script>
+<script type="text/javascript">
+  var slider = document.getElementById('slider'),
+    sliderItems = document.getElementById('items'),
+    prev = document.getElementById('prev'),
+    next = document.getElementById('next');
+
+if(document.getElementsByClassName('slidemobile').length > 0)
+ slide(slider, sliderItems, prev, next);
+
+function slide(wrapper, items, prev, next) {
+  var posX1 = 0,
+      posX2 = 0,
+      posInitial,
+      posFinal,
+      threshold = 100,
+      slides = items.getElementsByClassName('slidemobile'),
+      slidesLength = slides.length,
+      slideSize = items.getElementsByClassName('slidemobile')[0].offsetWidth,
+      firstSlide = slides[0],
+      lastSlide = slides[slidesLength - 1],
+      cloneFirst = firstSlide.cloneNode(true),
+      cloneLast = lastSlide.cloneNode(true),
+      index = 0,
+      allowShift = true;
+  
+  // Clone first and last slide
+  items.appendChild(cloneFirst);
+  items.insertBefore(cloneLast, firstSlide);
+  wrapper.classList.add('loaded');
+  
+  // Mouse and Touch events
+  items.onmousedown = dragStart;
+  
+  // Touch events
+  items.addEventListener('touchstart', dragStart);
+  items.addEventListener('touchend', dragEnd);
+  items.addEventListener('touchmove', dragAction);
+  
+  // Click events
+  prev.addEventListener('click', function () { shiftSlide(-1) });
+  next.addEventListener('click', function () { shiftSlide(1) });
+  
+  // Transition events
+  items.addEventListener('transitionend', checkIndex);
+  
+  function dragStart (e) {
+    e = e || window.event;
+   //  e.preventDefault();
+    posInitial = items.offsetLeft;
+    
+    if (e.type == 'touchstart') {
+      posX1 = e.touches[0].clientX;
+    } else {
+      posX1 = e.clientX;
+      document.onmouseup = dragEnd;
+      document.onmousemove = dragAction;
+    }
+  }
+
+  function dragAction (e) {
+    e = e || window.event;
+    
+    if (e.type == 'touchmove') {
+      posX2 = posX1 - e.touches[0].clientX;
+      posX1 = e.touches[0].clientX;
+    } else {
+      posX2 = posX1 - e.clientX;
+      posX1 = e.clientX;
+    }
+    items.style.left = (items.offsetLeft - posX2) + "px";
+  }
+  
+  function dragEnd (e) {
+    posFinal = items.offsetLeft;
+    if (posFinal - posInitial < -threshold) {
+      shiftSlide(1, 'drag');
+    } else if (posFinal - posInitial > threshold) {
+      shiftSlide(-1, 'drag');
+    } else {
+      items.style.left = (posInitial) + "px";
+    }
+
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+  
+  function shiftSlide(dir, action) {
+    items.classList.add('shifting');
+    
+    if (allowShift) {
+      if (!action) { posInitial = items.offsetLeft; }
+
+      if (dir == 1) {
+        items.style.left = (posInitial - slideSize) + "px";
+        index++;      
+      } else if (dir == -1) {
+        items.style.left = (posInitial + slideSize) + "px";
+        index--;      
+      }
+    };
+    
+    allowShift = false;
+  }
+    
+  function checkIndex (){
+    items.classList.remove('shifting');
+
+    if (index == -1) {
+      items.style.left = -(slidesLength * slideSize) + "px";
+      index = slidesLength - 1;
+    }
+
+    if (index == slidesLength) {
+      items.style.left = -(1 * slideSize) + "px";
+      index = 0;
+    }
+    
+    allowShift = true;
+  }
+}</script>
+<script type="text/javascript">
+$(".carousel").swipe({
+
+  swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
+
+    if (direction == 'left') $(this).carousel('next');
+    if (direction == 'right') $(this).carousel('prev');
+
+  },
+  allowPageScroll:"vertical"
+});
+</script>
+<script type="text/javascript">
+      function showHideDiv(ele) {
+        var srcElement = document.getElementById(ele);
+        if (srcElement != null) {
+          if (srcElement.style.display == "block") {
+            srcElement.style.display = 'none';
+          }
+          else {
+            srcElement.style.display = 'block';
+          }
+          return false;
+        }
+      }
+</script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+   $(".dropdown.menu-large").hover(function () {
+      $(".overlay-1").show();       
+   }, function () {
+    $(".overlay-1").hide(); 
+    }
+   );
+ });
+</script>
+<script type="text/javascript">
+function buttonUp(){
+    var inputVal = $('.searchbox-input').val();
+    inputVal = $.trim(inputVal).length;
+    if( inputVal !== 0){
+        $('.searchbox-icon').css('display','none');
+    } else {
+        $('.searchbox-input').val('');
+        $('.searchbox-icon').css('display','block');
+    }
+}
+$(document).ready(function () {
+  $(".fa-search-mobile").click(function (e) { 
+  e.preventDefault();
+    $(this).toggleClass("toggle-mobile");
+   });
+});
+</script>
+<script type="text/javascript">
+var globel = {};
+globel.ActivityIndicator = function(action){
+  if (action =="show") {
+    $("#wrapper").append(`<div class="loader-container"><div class="spinner-spinner"></div></div>`);
+  } else if(action =="remove"){
+     $(".loader-container").remove();
+  }
+}
+$(".side-search.sreach").submit(function(event) {
+  globel.ActivityIndicator("show");
+});
+jQuery(document).ready(function($) {
+$("button#fillterBtn").click(function(e) {
+         e.preventDefault();
+        $("#fillter-div").toggle();
+      });
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(function() {
+    // loop all zeynepjs menus for initialization
+    $('.zeynep').each(function () {
+        // init zeynepjs side menu
+        $(this).zeynep({
+            opened: function (el) {
+            // log
+            console.log(el.attr('data-menu-name') + ' side menu opened');
+            },
+            closed: function (el) {
+            // log
+            console.log(el.attr('data-menu-name') + ' side menu closed');
+            }
+        });
+    });
+    // handle zeynepjs overlay click
+    $('.close-menu').on('click', function () {
+    // close all zeynepjs menus
+        $('.zeynep.opened').each(function () {
+            $(this).data('zeynep').close()
+        })
+    });
+    // open first zeynepjs side menu
+    $('.btn-open.first').on('click', function () {
+        $('.zeynep.first').data('zeynep').open();
+    });
+
+    // open second zeynepjs side menu
+    $('.btn-open.second').on('click', function () {
+        $('.zeynep.second').data('zeynep').open();
+    });
+});
+</script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".fa-search").click(function() {
+        $(".togglesearch").toggle();
+        $("input[type='text']").focus();
+    });
+});
+</script>
+<script type="text/javascript">
+function myFunction() {
+    var x = document.getElementById("myDIV");
+}
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        //Horizontal Tab
+        $('#parentHorizontalTab').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            tabidentify: 'hor_1', // The tab groups identifier
+            activate: function(event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#nested-tabInfo');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
+
+        // Child Tab
+        $('#ChildVerticalTab_1').easyResponsiveTabs({
+            type: 'vertical',
+            width: 'auto',
+            fit: true,
+            tabidentify: 'ver_1', // The tab groups identifier
+            activetab_bg: '#fff', // background color for active tabs in this group
+            inactive_bg: '#F5F5F5', // background color for inactive tabs in this group
+            active_border_color: '#c1c1c1', // border color for active tabs heads in this group
+            active_content_border_color: '#5AB1D0' // border color for active tabs contect in this group so that it matches the tab head border
+        });
+
+        //Vertical Tab
+        $('#parentVerticalTab').easyResponsiveTabs({
+            type: 'vertical', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            closed: 'accordion', // Start closed if in accordion view
+            tabidentify: 'hor_1', // The tab groups identifier
+            activate: function(event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#nested-tabInfo2');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
+    });
+</script>
+<!-- new js code close -->
+<script type="text/javascript">
+$(document).ready(function () {
+   $(".dropdown.menu-large").hover(function () {
+      $(".overlay-1").show();       
+   }, function () {
+    $(".overlay-1").hide(); 
+    }
+   );
+ });
+
+var root;
+jQuery(document).ready(function($) {
+    $('.panel-heading').on("click",function(e) {
+         var   target = e.target
+         if ($(target).closest(".panel-heading").next().hasClass('in'))  {
+            if ($(target).is("i")) {
+               $(target).removeClass('glyphicon-minus').addClass('glyphicon-plus');
+
+            }else{
+              $(target).find("i").removeClass('glyphicon-minus').addClass('glyphicon-plus');
+            }
+         }
+         else if (!$(target).closest(".panel-heading").next().hasClass('in')){
+            if ($(target).is("i")) {
+                $(target).removeClass('glyphicon-plus').addClass('glyphicon-minus');
+            } else {
+               $(target).find("i").removeClass('glyphicon-plus').addClass('glyphicon-minus');
+            }
+         }
+    });
+
+    var n = $(".sort-list").length;
+    if (n > 0) {
+        var url = window.location.href
+        var url = new URL(url);
+        var c = url.searchParams.get("price");
+        if (c === null) {
+           var c = url.searchParams.get("type");
+        }
+          
+          if (c !== null) {
+
+           var text = $(".sort-list").find(`input[value=${c}]`).next().text();
+           text = text.replace("Price: ", "")
+          $(".sort-sortBy").find("strong").text(text)
+       }      
+    }
+});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    $("#mobile-search").click(function(event) {
+      var q = $("#search-q").val();
+        if ($.trim(q) != '') {var URL = $(this).data("url");
+            window.location.href =  `${URL}?q=${q}`;    
+        }
+    });
+ });
+</script>
+
+<script type="text/javascript">
+	    // const banner_list_string = ;
+    const banner_list_obj = [{"id":"163","image":"ac_18t-01_46168865652.jpg","dimensions":null,"img_title":"ac18t","img_alt":"","title":"","title_colour":"","sub_title":"","sub_title_colour":"","img_desc":"","desc_colour":"","img_link":"","link_target":"_parent","sort_by":"160","active":"1","status":"A","banner_type":"S","mobile_banner":"ac_18t-02_96573239508.jpg","youtube_link":""},{"id":"177","image":"delta_force_web_banner-01_73679435702.jpg","dimensions":null,"img_title":"deltaforcecot2022","img_alt":"","title":"","title_colour":"","sub_title":"","sub_title_colour":"","img_desc":"","desc_colour":"","img_link":"","link_target":"_parent","sort_by":"167","active":"1","status":"A","banner_type":"S","mobile_banner":"delta_force_web_banner_550x300-01_44912573700.jpg","youtube_link":""},{"id":"225","image":"pickleball_web_banner-01_12159093589.jpg","dimensions":null,"img_title":"pickle2025","img_alt":"","title":"","title_colour":"","sub_title":"","sub_title_colour":"","img_desc":"","desc_colour":"","img_link":"https:\/\/www.cosco.in\/products\/india\/pickleball\/","link_target":"_parent","sort_by":"213","active":"1","status":"A","banner_type":"S","mobile_banner":"pickleball_web_banner-02_94583291492.jpg","youtube_link":""}]; //JSON.parse(banner_list_string);
+
+   function changewidth() { 
+                var x = document.querySelectorAll("iframe");
+                if (x.length) {
+                    for (var i = 0; i < x.length; i++) {
+                       x[i].style.width = "100%";
+                       x[i].style.height = "100%";
+                    }
+                }
+            } 
+
+
+    jQuery(document).ready(function($) {
+          $(".banner_image").click(function (e) {
+              e.preventDefault();
+              var key = $(this).data("id");
+              if(banner_list_obj[key].youtube_link){
+
+                  $("#youtube_video").modal("show");
+                  $(".youtube_video_body").html(banner_list_obj[key].youtube_link);
+                                }
+          });
+	
+		$('#youtube_video').on('hidden.bs.modal', function () {
+			 $(".youtube_video_body").html('');
+		});
+    });
+</script>
+<style type="text/css">
+    .banner_image{
+        cursor: pointer;
+    }
+    .loader-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    padding: 5px;
+    border-radius: 20px;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    z-index: 6;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 3px 2px rgb(0 0 0 / 9%);
+    box-shadow: 0 0 3px 2px rgb(0 0 0 / 9%);
+}
+li.mr-b-15 {
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.spinner-spinner {
+    height: 20px;
+    width: 20px;
+    -webkit-animation: spinner-rotate .8s linear infinite;
+    animation: spinner-rotate .8s linear infinite;
+    border: 2px solid #f16565;
+    border-right-color: transparent;
+    border-radius: 20px;
+}
+.ekko-lightbox-nav-overlay a {
+     color: #ff0000!important;
+    }
+ul.ft-soc li a.fa.fa-google-plus {
+    padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background: #e41919;
+    color: #fff;
+}
+.text-widgeti .ft-soc li {
+    float: left;
+    list-style: none;
+    margin-right: 8px;
+}
+.text-widgeti .ft-soc .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.text-widgeti .ft-soc .fa:hover {
+    opacity: 0.7;
+}
+ul.ft-soc li a i.fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+ul.ft-soc li a i.fa.fa-tumblr{
+    background: #04517d;
+    color: white;
+    padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+ul.ft-soc li a i.fa-twitter {
+  background: #55ACEE;
+   padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;
+}
+ul.ft-soc li a i.fa-google {
+  background: #dd4b39;
+  padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;
+}
+ul.ft-soc li a i.fa.fa-linkedin{
+  background: #007bb5;
+  padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;
+}
+ul.ft-soc li a i.fa.fa-youtube{
+  background: #bb0000;
+  color: white;
+    padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+ul.ft-soc li a i.fa.fa-instagram {
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+  padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;}
+ul.ft-soc li a i.fa.fa-whatsapp  {
+  color:#fff;
+  background:#25d366;
+  padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;}
+ul.ft-soc li a i.ft-soc .fa-pinterest {
+  background: #cb2027;
+  padding: 7px;
+    font-size: 18px;
+    width: 31px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: #fff;
+}
+ul.ft-soc li a i.ft-soc .fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.col-box {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+.row-box {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.quick-links-head-office ul {
+    list-style: none;
+        margin-left: -40px;
+}
+@media (min-width:768px){
+    .slick-slide{margin: 10px 2px!important;}
+    .ekko-lightbox .modal-dialog {
+        width: 1200px!important;
+    }
+    .modal-dialog .ekko-lightbox-container {
+    	text-align: center;
+    }
+    .ekko-lightbox .modal-dialog img.img-responsive{display: inline-block;}
+}
+.news__arrow {
+  width: 14px;
+  height: 17px;
+  cursor: pointer;
+  filter: saturate(0%);
+  position: absolute;
+  top: 50%;
+      background: #000;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    height: 40px;
+    width: 24px;
+}
+.news__arrow:hover {
+  filter: saturate(100%);
+}
+.news__arrow_dir_left {
+    left: 0px;
+    z-index: 99;
+}
+.news__arrow_dir_right {
+    right: 0px;
+    z-index: 99;
+}
+#fpZoomview > li:not(:last-child) img { cursor:url("https://www.cosco.in//assets/images/plus-search.png"), url(foo.cur), auto; }
+.modal-title { text-align: center; font-size: 30px;}
+  </style>
+</body>
+</html>
